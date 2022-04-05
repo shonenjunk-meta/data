@@ -279,24 +279,10 @@
   },
   {
     "category": "Color Match",
-    "id": "fullcolormatch",
+    "id": "perfectwave",
     "name": "Perfect Wave",
     "poster": 5536,
     "story": "",
-    "traits": [
-      {
-        "value": "none",
-        "trait_type": "Hair accessories"
-      },
-      {
-        "value": "none",
-        "trait_type": "Props"
-      },
-      {
-        "value": "none",
-        "trait_type": "Swords & Wings"
-      }
-    ],
     "colors": {
       "hair": "match-eyes",
       "eyes": "match-clothes",
@@ -306,10 +292,31 @@
   },
   {
     "category": "Color Match",
-    "id": "triplecolormatch",
+    "id": "tricolorwave",
     "name": "Tri Color Wave",
     "poster": 5360,
     "story": "",
+    "colors": {
+      "hair": "match-clothes",
+      "clothes": "match-backdrop"
+    }
+  },
+  {
+    "category": "Color Match",
+    "id": "piercingglare",
+    "name": "Piercing Glare",
+    "poster": 154,
+    "story": "",
+    "traits": [
+      {
+        "value": "none",
+        "trait_type": "Tattoos"
+      },
+      {
+        "value": "none",
+        "trait_type": "Props"
+      }
+    ],
     "colors": {
       "hair": "match-clothes",
       "clothes": "match-backdrop"
