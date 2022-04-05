@@ -157,6 +157,14 @@
     ]
   },
   {
+    "category": "Unarmed",
+    "id": "sixtrait",
+    "name": "6-Trait",
+    "poster": 694,
+    "story": "Random info.",
+    "trait_count": 6
+  },
+  {
     "category": "Color Match",
     "id": "fullcolormatch",
     "name": "Perfect Wave",
