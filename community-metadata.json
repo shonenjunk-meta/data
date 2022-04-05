@@ -170,11 +170,24 @@
     "name": "Perfect Wave",
     "poster": 5536,
     "story": "",
+    "traits": [
+      {
+        "value": "none",
+        "trait_type": "Hair accessories"
+      },
+      {
+        "value": "none",
+        "trait_type": "Props"
+      },
+      {
+        "value": "none",
+        "trait_type": "Swords & Wings"
+      }
+    ],
     "colors": {
       "hair": "match-eyes",
       "eyes": "match-clothes",
-      "clothes": "match-backdrop",
-      "backdrop": "match-backprop"
+      "clothes": "match-backdrop"
     }
   },
   {
