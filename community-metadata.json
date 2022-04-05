@@ -4,7 +4,7 @@
     "id": "psiops",
     "name": "PSI-Ops",
     "poster": 1786,
-    "story": "An elite group tasked to protect planet earth from alien invasion.",
+    "story": "",
     "traits": [
       {
         "value": ["Sci-Fi Jacket"],
@@ -21,7 +21,7 @@
     "id": "psiopssoldier",
     "name": "PSI-Ops Soldier",
     "poster": 2521,
-    "story": "Special unit to fight in melee combat against alien invasion.",
+    "story": "",
     "traits": [
       {
         "value": ["Sci-Fi Jacket"],
@@ -38,7 +38,7 @@
     "id": "psiopsranger",
     "name": "PSI-Ops Ranger",
     "poster": 8247,
-    "story": "Special unit to fight in range combat against alien invasion.",
+    "story": "",
     "traits": [
       {
         "value": ["Sci-Fi Jacket"],
@@ -55,7 +55,7 @@
     "id": "psiopsmage",
     "name": "PSI-Ops Mage",
     "poster": 114,
-    "story": "Special unit to fight physical immune aliens.",
+    "story": "",
     "traits": [
       {
         "value": ["Sci-Fi Jacket"],
@@ -72,7 +72,7 @@
     "id": "psiopsangel",
     "name": "PSI-Ops Angel",
     "poster": 4195,
-    "story": "Good hearted special unit that have died fighting the alien invasion.",
+    "story": "",
     "traits": [
       {
         "value": ["Sci-Fi Jacket"],
@@ -89,7 +89,7 @@
     "id": "psiopsdevil",
     "name": "PSI-Ops Devil",
     "poster": 4582,
-    "story": "Not very kind special unit that have died fighting the alien invasion.",
+    "story": "",
     "traits": [
       {
         "value": ["Sci-Fi Jacket"],
@@ -106,7 +106,7 @@
     "id": "cosmic",
     "name": "Cosmic",
     "poster": 3598,
-    "story": "Special forces that defend earth beyond the atmosphere.",
+    "story": "",
     "traits": [
       {
         "value": ["Space Suit B"],
@@ -123,7 +123,7 @@
     "id": "cosmicsoldier",
     "name": "Cosmic Soldier",
     "poster": 2056,
-    "story": "Special forces that defend earth beyond the atmosphere.",
+    "story": "",
     "traits": [
       {
         "value": ["Space Suit B"],
@@ -140,7 +140,7 @@
     "id": "weeb",
     "name": "Weeb",
     "poster": 1005,
-    "story": "People who are obsessed with Japanese culture.",
+    "story": "",
     "traits": [
       {
         "value": ["School Boy Uniform"],
@@ -169,7 +169,7 @@
     "id": "fullcolormatch",
     "name": "Perfect Wave",
     "poster": 5536,
-    "story": "Junkies that knows their style.",
+    "story": "",
     "colors": {
       "hair": "match-eyes",
       "eyes": "match-clothes",
@@ -181,7 +181,7 @@
     "id": "weaponmatch",
     "name": "Weapon Match",
     "poster": 8037,
-    "story": "Junkies that knows their style.",
+    "story": "",
     "colors": {
       "hair": ["yellow"],
       "backprop": ["yellow"]
@@ -190,16 +190,235 @@
   {
     "category": "Legendary",
     "id": "sentai",
-    "name": "Sentai",
+    "name": "Sentai Helmet",
     "poster": 5498,
-    "story": "Most exclusive rarity lengedaries.",
+    "story": "",
     "traits": [
       {
         "value": ["Sentai Helmet"],
         "trait_type": "Props"
       }
-    ],
-    "whitelist": [2504, 4087],
-    "blacklist": [2906, 5084]
+    ]
+  },
+  {
+    "category": "Legendary",
+    "id": "mecha",
+    "name": "Mecha Helmet",
+    "poster": 321,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Mecha Helmet"],
+        "trait_type": "Props"
+      }
+    ]
+  },
+  {
+    "category": "Legendary",
+    "id": "forceaura",
+    "name": "Force Aura",
+    "poster": 548,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Force Aura"],
+        "trait_type": "Props"
+      }
+    ]
+  },
+  {
+    "category": "Legendary",
+    "id": "birdhelmet",
+    "name": "Bird Helmet",
+    "poster": 5150,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Bird Helmet"],
+        "trait_type": "Props"
+      }
+    ]
+  },
+  {
+    "category": "Legendary",
+    "id": "strawhat",
+    "name": "Straw Hat",
+    "poster": 3512,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Straw Hat"],
+        "trait_type": "Hair accessories"
+      }
+    ]
+  },
+  {
+    "category": "Legendary",
+    "id": "raysbold",
+    "name": "Rays Bold",
+    "poster": 4107,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Rays Bold"],
+        "trait_type": "Background"
+      }
+    ]
+  },
+  {
+    "category": "Legendary",
+    "id": "commsa",
+    "name": "Comms A",
+    "poster": 3192,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Comms A"],
+        "trait_type": "Hair accessories"
+      }
+    ]
+  },
+  {
+    "category": "Legendary",
+    "id": "chunkyspikyhair",
+    "name": "Chunky Spiky Hair",
+    "poster": 7173,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Chunky Spiky Hair"],
+        "trait_type": "Hair"
+      }
+    ]
+  },
+  {
+    "category": "Legendary",
+    "id": "raysthin",
+    "name": "Rays Thin",
+    "poster": 7881,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Rays Thin"],
+        "trait_type": "Background"
+      }
+    ]
+  },
+  {
+    "category": "Legendary",
+    "id": "partialmask",
+    "name": "Partial Mask",
+    "poster": 2450,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Partial Mask"],
+        "trait_type": "Tattoos"
+      }
+    ]
+  },
+  {
+    "category": "Legendary",
+    "id": "animeeyes",
+    "name": "Anime Eyes",
+    "poster": 2621,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Anime Eyes"],
+        "trait_type": "Eyes"
+      }
+    ]
+  },
+  {
+    "category": "Legendary",
+    "id": "sketchynosemouth",
+    "name": "Sketchy Nose-Mouth",
+    "poster": 4730,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Sketchy Nose-Mouth"],
+        "trait_type": "Nose & Mouth"
+      }
+    ]
+  },
+  {
+    "category": "Legendary",
+    "id": "focusedeyes",
+    "name": "Focused Eyes",
+    "poster": 7371,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Focused Eyes"],
+        "trait_type": "Eyes"
+      }
+    ]
+  },
+  {
+    "category": "Legendary",
+    "id": "aloofeyes",
+    "name": "Aloof Eyes",
+    "poster": 1126,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Aloof Eyes"],
+        "trait_type": "Eyes"
+      }
+    ]
+  },
+  {
+    "category": "Legendary",
+    "id": "commsb",
+    "name": "Comms B",
+    "poster": 3858,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Comms B"],
+        "trait_type": "Hair accessories"
+      }
+    ]
+  },
+  {
+    "category": "Legendary",
+    "id": "goggles",
+    "name": "Goggles",
+    "poster": 829,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Goggles"],
+        "trait_type": "Hair accessories"
+      }
+    ]
+  },
+  {
+    "category": "Legendary",
+    "id": "starhair",
+    "name": "Star Hair",
+    "poster": 1389,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Star Hair"],
+        "trait_type": "Hair"
+      }
+    ]
+  },
+  {
+    "category": "Legendary",
+    "id": "cyborgeyes",
+    "name": "Cyborg Eyes",
+    "poster": 334,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Cyborg Eyes"],
+        "trait_type": "Eyes"
+      }
+    ]
   }
 ]
