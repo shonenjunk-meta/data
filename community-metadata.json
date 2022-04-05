@@ -13,7 +13,7 @@
       {
         "value": ["Space Sword"],
         "trait_type": "Swords & Wings"
-      },
+      }
     ]
   },
   {
@@ -30,7 +30,7 @@
       {
         "value": ["Staff", "Short Staff", "Tassel Sword", "Giant Sword", "Double Katana"],
         "trait_type": "Swords & Wings"
-      },
+      }
     ]
   },
   {
@@ -47,7 +47,7 @@
       {
         "value": ["M-16"],
         "trait_type": "Swords & Wings"
-      },
+      }
     ]
   },
   {
@@ -64,7 +64,7 @@
       {
         "value": ["Staff", "Short Staff", "Tassel Sword", "Giant Sword", "Double Katana"],
         "trait_type": "Swords & Wings"
-      },
+      }
     ]
   },
   {
@@ -81,7 +81,7 @@
       {
         "value": ["Angel Wings"],
         "trait_type": "Swords & Wings"
-      },
+      }
     ]
   },
   {
@@ -98,7 +98,7 @@
       {
         "value": ["Devil Wings"],
         "trait_type": "Swords & Wings"
-      },
+      }
     ]
   },
   {
@@ -115,7 +115,7 @@
       {
         "value": ["Tassel Sword"],
         "trait_type": "Swords & Wings"
-      },
+      }
     ]
   },
   {
@@ -132,7 +132,7 @@
       {
         "value": ["Staff", "Short Staff", "Space Sword", "Giant Sword", "Double Katana"],
         "trait_type": "Swords & Wings"
-      },
+      }
     ]
   },
   {
@@ -148,12 +148,12 @@
       },
       {
         "value": ["Glasses Red"],
-        "trait_type": "Props",
+        "trait_type": "Props"
       },
       {
         "value": "none",
         "trait_type": "Swords & Wings"
-      },
+      }
     ]
   },
   {
@@ -165,8 +165,8 @@
     "colors": {
       "hair": "match-eyes",
       "eyes": "match-clothes",
-      "clothes": "match-backdrop",
-    },
+      "clothes": "match-backdrop"
+    }
   },
   {
     "category": "Color Match",
@@ -175,8 +175,8 @@
     "poster": 8037,
     "story": "Junkies that knows their style.",
     "colors": {
-      "hair": "match-backprop",
-    },
+      "hair": "match-backprop"
+    }
   },
   {
     "category": "Legendary",
@@ -187,10 +187,10 @@
     "traits": [
       {
         "value": ["Sentai Helmet"],
-        "trait_type": "Props",
-      },
+        "trait_type": "Props"
+      }
     ],
     "whitelist": [2504, 4087],
-    "blacklist": [2906, 5084],  
-  },
+    "blacklist": [2906, 5084]
+  }
 ]
