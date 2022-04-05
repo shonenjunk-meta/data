@@ -1,0 +1,196 @@
+[
+  {
+    "category": "Armed",
+    "id": "psiops",
+    "name": "PSI-Ops",
+    "poster": 1786,
+    "story": "An elite group tasked to protect planet earth from alien invasion.",
+    "traits": [
+      {
+        "value": ["Sci-Fi Jacket"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Space Sword"],
+        "trait_type": "Swords & Wings"
+      },
+    ]
+  },
+  {
+    "category": "Armed",
+    "id": "psiopssoldier",
+    "name": "PSI-Ops Soldier",
+    "poster": 2521,
+    "story": "Special unit to fight in melee combat against alien invasion.",
+    "traits": [
+      {
+        "value": ["Sci-Fi Jacket"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Staff", "Short Staff", "Tassel Sword", "Giant Sword", "Double Katana"],
+        "trait_type": "Swords & Wings"
+      },
+    ]
+  },
+  {
+    "category": "Armed",
+    "id": "psiopsranger",
+    "name": "PSI-Ops Ranger",
+    "poster": 8247,
+    "story": "Special unit to fight in range combat against alien invasion.",
+    "traits": [
+      {
+        "value": ["Sci-Fi Jacket"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["M-16"],
+        "trait_type": "Swords & Wings"
+      },
+    ]
+  },
+  {
+    "category": "Armed",
+    "id": "psiopsmage",
+    "name": "PSI-Ops Mage",
+    "poster": 114,
+    "story": "Special unit to fight physical immune aliens.",
+    "traits": [
+      {
+        "value": ["Sci-Fi Jacket"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Staff", "Short Staff", "Tassel Sword", "Giant Sword", "Double Katana"],
+        "trait_type": "Swords & Wings"
+      },
+    ]
+  },
+  {
+    "category": "Armed",
+    "id": "psiopsangel",
+    "name": "PSI-Ops Angel",
+    "poster": 4195,
+    "story": "Good hearted special unit that have died fighting the alien invasion.",
+    "traits": [
+      {
+        "value": ["Sci-Fi Jacket"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Angel Wings"],
+        "trait_type": "Swords & Wings"
+      },
+    ]
+  },
+  {
+    "category": "Armed",
+    "id": "psiopsdevil",
+    "name": "PSI-Ops Devil",
+    "poster": 4582,
+    "story": "Not very kind special unit that have died fighting the alien invasion.",
+    "traits": [
+      {
+        "value": ["Sci-Fi Jacket"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Devil Wings"],
+        "trait_type": "Swords & Wings"
+      },
+    ]
+  },
+  {
+    "category": "Armed",
+    "id": "cosmic",
+    "name": "Cosmic",
+    "poster": 3598,
+    "story": "Special forces that defend earth beyond the atmosphere.",
+    "traits": [
+      {
+        "value": ["Space Suit B"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Tassel Sword"],
+        "trait_type": "Swords & Wings"
+      },
+    ]
+  },
+  {
+    "category": "Armed",
+    "id": "cosmicsoldier",
+    "name": "Cosmic Soldier",
+    "poster": 2056,
+    "story": "Special forces that defend earth beyond the atmosphere.",
+    "traits": [
+      {
+        "value": ["Space Suit B"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Staff", "Short Staff", "Space Sword", "Giant Sword", "Double Katana"],
+        "trait_type": "Swords & Wings"
+      },
+    ]
+  },
+  {
+    "category": "Unarmed",
+    "id": "weeb",
+    "name": "Weeb",
+    "poster": 1005,
+    "story": "People who are obsessed with Japanese culture.",
+    "traits": [
+      {
+        "value": ["School Boy Uniform"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Glasses Red"],
+        "trait_type": "Props",
+      },
+      {
+        "value": "none",
+        "trait_type": "Swords & Wings"
+      },
+    ]
+  },
+  {
+    "category": "Color Match",
+    "id": "fullcolormatch",
+    "name": "Perfect Wave",
+    "poster": 5536,
+    "story": "Junkies that knows their style.",
+    "colors": {
+      "hair": "match-eyes",
+      "eyes": "match-clothes",
+      "clothes": "match-backdrop",
+    },
+  },
+  {
+    "category": "Color Match",
+    "id": "weaponmatch",
+    "name": "Weapon Match",
+    "poster": 8037,
+    "story": "Junkies that knows their style.",
+    "colors": {
+      "hair": "match-backprop",
+    },
+  },
+  {
+    "category": "Legendary",
+    "id": "sentai",
+    "name": "Sentai",
+    "poster": 5498,
+    "story": "Most exclusive rarity lengedaries.",
+    "traits": [
+      {
+        "value": ["Sentai Helmet"],
+        "trait_type": "Props",
+      },
+    ],
+    "whitelist": [2504, 4087],
+    "blacklist": [2906, 5084],  
+  },
+]
