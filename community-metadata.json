@@ -168,7 +168,7 @@
     "category": "Trait Count",
     "id": "seventrait",
     "name": "7-Trait",
-    "poster": 694,
+    "poster": 2283,
     "story": "",
     "trait_count": 7
   },
@@ -176,7 +176,7 @@
     "category": "Trait Count",
     "id": "eighttrait",
     "name": "8-Trait",
-    "poster": 694,
+    "poster": 4896,
     "story": "",
     "trait_count": 8
   },
@@ -184,7 +184,7 @@
     "category": "Trait Count",
     "id": "ninetraint",
     "name": "9-Trait",
-    "poster": 694,
+    "poster": 7527,
     "story": "",
     "trait_count": 9
   },
@@ -192,7 +192,7 @@
     "category": "Trait Count",
     "id": "tentrait",
     "name": "10-Trait",
-    "poster": 694,
+    "poster": 7052,
     "story": "",
     "trait_count": 10
   },
@@ -238,11 +238,13 @@
     "category": "Color Match",
     "id": "blackops",
     "name": "Black-Ops",
-    "poster": 8037,
+    "poster": 7793,
     "story": "",
     "colors": {
-      "hair": ["yellow"],
-      "backprop": ["yellow"]
+      "hair": ["black"],
+      "backdrop": ["black"],
+      "clothes": ["black"],
+      "backprop": ["black"]
     }
   },
   {
