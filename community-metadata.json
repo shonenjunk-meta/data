@@ -248,6 +248,32 @@
     }
   },
   {
+    "category": "Color Match",
+    "id": "stealthops",
+    "name": "Stealth-Ops",
+    "poster": 7793,
+    "story": "",
+    "traits": [
+      {
+        "value": "none",
+        "trait_type": "Tattoos"
+      },
+      {
+        "value": "none",
+        "trait_type": "Hair accessories"
+      },
+      {
+        "value": "none",
+        "trait_type": "Swords & Wings"
+      }
+    ],
+    "colors": {
+      "hair": ["black"],
+      "backdrop": ["black"],
+      "clothes": ["black"]
+    }
+  },
+  {
     "category": "Unique",
     "id": "saint",
     "name": "Saint",
