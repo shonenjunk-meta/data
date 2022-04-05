@@ -306,6 +306,31 @@
   },
   {
     "category": "Color Match",
+    "id": "triplecolormatch",
+    "name": "Tri Color Wave",
+    "poster": 5360,
+    "story": "",
+    "traits": [
+      {
+        "value": "none",
+        "trait_type": "Hair accessories"
+      },
+      {
+        "value": "none",
+        "trait_type": "Props"
+      },
+      {
+        "value": "none",
+        "trait_type": "Swords & Wings"
+      }
+    ],
+    "colors": {
+      "hair": "match-clothes",
+      "clothes": "match-backdrop"
+    }
+  },
+  {
+    "category": "Color Match",
     "id": "blondieswordie",
     "name": "Blondie Swordie",
     "poster": 7456,
