@@ -175,7 +175,8 @@
     "poster": 8037,
     "story": "Junkies that knows their style.",
     "colors": {
-      "hair": "match-backprop"
+      "hair": ["yellow"],
+      "backprop": ["yellow"]
     }
   },
   {
