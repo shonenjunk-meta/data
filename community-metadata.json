@@ -173,7 +173,8 @@
     "colors": {
       "hair": "match-eyes",
       "eyes": "match-clothes",
-      "clothes": "match-backdrop"
+      "clothes": "match-backdrop",
+      "backdrop": "match-backprop"
     }
   },
   {
