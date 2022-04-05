@@ -188,6 +188,39 @@
     }
   },
   {
+    "category": "Unique",
+    "id": "saint",
+    "name": "Saint",
+    "poster": 35,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Angel Wings"],
+        "trait_type": "Swords & Wings"
+      }
+    ],
+    "colors": {
+      "clothes": ["white"]
+    }
+  },
+  {
+    "category": "Unique",
+    "id": "fallen",
+    "name": "Fallen",
+    "poster": 4496,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Cape"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Devil Wings"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
     "category": "Legendary",
     "id": "sentai",
     "name": "Sentai Helmet",
@@ -398,12 +431,12 @@
   {
     "category": "Legendary",
     "id": "starhair",
-    "name": "Star Hair",
+    "name": "Star",
     "poster": 1389,
     "story": "",
     "traits": [
       {
-        "value": ["Star Hair"],
+        "value": ["Star"],
         "trait_type": "Hair"
       }
     ]
