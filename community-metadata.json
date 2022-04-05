@@ -157,12 +157,44 @@
     ]
   },
   {
-    "category": "Unarmed",
+    "category": "Trait Count",
     "id": "sixtrait",
     "name": "6-Trait",
     "poster": 694,
-    "story": "Random info.",
+    "story": "",
     "trait_count": 6
+  },
+  {
+    "category": "Trait Count",
+    "id": "seventrait",
+    "name": "7-Trait",
+    "poster": 694,
+    "story": "",
+    "trait_count": 7
+  },
+  {
+    "category": "Trait Count",
+    "id": "eighttrait",
+    "name": "8-Trait",
+    "poster": 694,
+    "story": "",
+    "trait_count": 8
+  },
+  {
+    "category": "Trait Count",
+    "id": "ninetraint",
+    "name": "9-Trait",
+    "poster": 694,
+    "story": "",
+    "trait_count": 9
+  },
+  {
+    "category": "Trait Count",
+    "id": "tentrait",
+    "name": "10-Trait",
+    "poster": 694,
+    "story": "",
+    "trait_count": 10
   },
   {
     "category": "Color Match",
@@ -188,12 +220,24 @@
       "hair": "match-eyes",
       "eyes": "match-clothes",
       "clothes": "match-backdrop"
+    },
+    "whitelist": [7452]
+  },
+  {
+    "category": "Color Match",
+    "id": "blondieswordie",
+    "name": "Blondie Swordie",
+    "poster": 7456,
+    "story": "",
+    "colors": {
+      "hair": ["yellow"],
+      "backprop": ["yellow"]
     }
   },
   {
     "category": "Color Match",
-    "id": "weaponmatch",
-    "name": "Weapon Match",
+    "id": "blackops",
+    "name": "Black-Ops",
     "poster": 8037,
     "story": "",
     "colors": {
