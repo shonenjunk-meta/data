@@ -323,6 +323,26 @@
   },
   {
     "category": "Color Match",
+    "id": "piercingglare",
+    "name": "Piercing Glare",
+    "poster": 2217,
+    "story": "",
+    "traits": [
+      {
+        "value": "none",
+        "trait_type": "Tattoos"
+      },
+      {
+        "value": "none",
+        "trait_type": "Props"
+      }
+    ],
+    "colors": {
+      "clothes": "match-backdrop"
+    }
+  },
+  {
+    "category": "Color Match",
     "id": "blondieswordie",
     "name": "Blondie Swordie",
     "poster": 7456,
