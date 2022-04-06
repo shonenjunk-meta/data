@@ -468,6 +468,23 @@
   },
   {
     "category": "Unique",
+    "id": "gokumask",
+    "name": "Master Saiyan",
+    "poster": 583,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Chunky Spiky Hair"],
+        "trait_type": "Hair"
+      },
+      {
+        "value": ["Eye Mask"],
+        "trait_type": "Props"
+      }
+    ]
+  },
+  {
+    "category": "Unique",
     "id": "silverbuzz",
     "name": "Silver Buzz",
     "poster": 2939,
