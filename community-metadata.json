@@ -434,6 +434,23 @@
   },
   {
     "category": "Unique",
+    "id": "baldeagle",
+    "name": "Bald Eagle",
+    "poster": 7954,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Angel Wings"],
+        "trait_type": "Swords & Wings"
+      },
+      {
+        "value": ["Bald"],
+        "trait_type": "Hair"
+      }
+    ],
+  },
+  {
+    "category": "Unique",
     "id": "fullcyborg",
     "name": "Full-Cyborg",
     "poster": 4333,
