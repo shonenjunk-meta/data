@@ -625,7 +625,7 @@
     "category": "Junks",
     "id": "ichigo",
     "name": "Ichigo",
-    "poster": 3333,
+    "poster": 6296,
     "story": "",
     "traits": [
       {
@@ -633,7 +633,7 @@
         "trait_type": "Clothes"
       },
       {
-        "value": ["Long Shaggy"],
+        "value": ["Mid Shaggy"],
         "trait_type": "Hair"
       }
     ]
