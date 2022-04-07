@@ -676,11 +676,14 @@
         "value": ["Mid Shaggy"],
         "trait_type": "Hair"
       }
-    ]
+    ],
+    "colors": {
+      "hair": ["orange"]
+    }
   },
   {
     "category": "Junks",
-    "id": "sailormoon",
+    "id": "sailor_moon",
     "name": "Sailor Moon",
     "poster": 1590,
     "story": "",
@@ -691,6 +694,23 @@
       },
       {
         "value": ["Pigtails"],
+        "trait_type": "Hair"
+      }
+    ]
+  },
+  {
+    "category": "Junks",
+    "id": "motoku_kusanagi",
+    "name": "Motoku Kusanagi",
+    "poster": 2458,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Sci-Fi Jacket"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Mid MIddle Part"],
         "trait_type": "Hair"
       }
     ]
