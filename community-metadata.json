@@ -716,6 +716,40 @@
     ]
   },
   {
+    "category": "Junks",
+    "id": "bojji",
+    "name": "Bojji",
+    "poster": 6476,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Blue Sweater"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Boyish Hair"],
+        "trait_type": "Hair"
+      }
+    ]
+  },
+  {
+    "category": "Junks",
+    "id": "edward_elric",
+    "name": "Edward Elric",
+    "poster": 4787,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Cape"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Pony Tail"],
+        "trait_type": "Hair"
+      }
+    ]
+  },  
+  {
     "category": "Legendary",
     "id": "sentai",
     "name": "Sentai Helmet",
