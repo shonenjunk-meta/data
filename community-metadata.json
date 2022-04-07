@@ -679,6 +679,23 @@
     ]
   },
   {
+    "category": "Junks",
+    "id": "sailormoon",
+    "name": "Sailor Moon",
+    "poster": 1590,
+    "story": "",
+    "traits": [
+      {
+        "value": ["School Girl Uniform A"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Pigtails"],
+        "trait_type": "Hair"
+      }
+    ]
+  },
+  {
     "category": "Legendary",
     "id": "sentai",
     "name": "Sentai Helmet",
