@@ -1,5 +1,25 @@
 [
   {
+    "category": "Premium Junkie",
+    "id": "sj_mascot",
+    "name": "SJ Masukotto",
+    "poster": 3892,
+    "story": "",
+    "traits": [{
+        "value": ["Jagged Bob"],
+        "trait_type": "Hair"
+      },
+      {
+        "value": ["Cape"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Inquisitive Brows"],
+        "trait_type": "Brows"
+      }
+    ]
+  },
+  {
     "category": "Armed",
     "id": "psiops",
     "name": "PSI-Ops",
