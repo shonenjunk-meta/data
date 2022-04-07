@@ -1,6 +1,6 @@
 [
   {
-    "category": "Franchise Junkies",
+    "category": "Premium Junkie",
     "id": "sj_mascot",
     "name": "SJ Masukotto",
     "poster": 3892,
@@ -16,6 +16,18 @@
       {
         "value": ["Inquisitive Brows"],
         "trait_type": "Brows"
+      },
+      {
+        "value": ["Wide Eyes"],
+        "trait_type": "Eyes"
+      },
+      {
+        "value": ["Tassel Sword"],
+        "trait_type": "Swords & Wings"
+      },
+      {
+        "value": ["Happy Nose-Mouth"],
+        "trait_type": "Nose & Mouth"
       }
     ]
   },
