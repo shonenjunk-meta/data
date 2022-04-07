@@ -1,41 +1,5 @@
 [
   {
-    "category": "Premium Junkie",
-    "id": "sj_mascot",
-    "name": "SJ Masukotto",
-    "poster": 3892,
-    "story": "",
-    "traits": [{
-        "value": ["Jagged Bob"],
-        "trait_type": "Hair"
-      },
-      {
-        "value": ["Cape"],
-        "trait_type": "Clothes"
-      },
-      {
-        "value": ["Inquisitive Brows"],
-        "trait_type": "Brows"
-      },
-      {
-        "value": ["Wide Eyes"],
-        "trait_type": "Eyes"
-      },
-      {
-        "value": ["Tassel Sword"],
-        "trait_type": "Swords & Wings"
-      },
-      {
-        "value": ["Happy Nose-Mouth"],
-        "trait_type": "Nose & Mouth"
-      },
-      {
-        "value": ["blue"],
-        "trait_type": "Background"
-      }
-    ]
-  },
-  {
     "category": "Armed",
     "id": "psiops",
     "name": "PSI-Ops",
