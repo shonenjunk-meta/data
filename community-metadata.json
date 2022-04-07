@@ -638,7 +638,7 @@
       }
     ],
     "colors": {
-      "Hair": ["orange"]
+      "hair": ["orange"]
     }
   },
   {
@@ -658,7 +658,7 @@
       }
     ],
     "colors": {
-      "Hair": ["brown"]
+      "hair": ["brown"]
     }
   },
   {
