@@ -828,6 +828,10 @@
       {
         "value": ["Bald"],
         "trait_type": "Hair"
+      },
+      {
+        "value": ["none"],
+        "trait_type": "Hair accessories"
       }
     ]
   },
