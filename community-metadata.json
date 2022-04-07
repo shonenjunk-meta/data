@@ -636,7 +636,10 @@
         "value": ["Mid Shaggy"],
         "trait_type": "Hair"
       }
-    ]
+    ],
+    "colors": {
+      "hair": ["orange"]
+    }
   },
   {
     "category": "Junks",
@@ -651,6 +654,23 @@
       },
       {
         "value": ["Short"],
+        "trait_type": "Hair"
+      }
+    ]
+  },
+  {
+    "category": "Junks",
+    "id": "shoyo",
+    "name": "Shoyo Hinata",
+    "poster": 6244,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Sports Jersey"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Mid Shaggy"],
         "trait_type": "Hair"
       }
     ]
