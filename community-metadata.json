@@ -238,6 +238,64 @@
     ]
   },
   {
+    "category": "Unarmed",
+    "id": "martialartist",
+    "name": "Martial Artist",
+    "poster": 6187,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Karate Gi"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": "none",
+        "trait_type": "Tattoos"
+      },
+      {
+        "value": "none",
+        "trait_type": "Props"
+      },
+      {
+        "value": "none",
+        "trait_type": "Hair accessories"
+      },
+      {
+        "value": "none",
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Unarmed",
+    "id": "",
+    "name": "Superhero",
+    "poster": 3525,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Superhero"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": "none",
+        "trait_type": "Tattoos"
+      },
+      {
+        "value": "none",
+        "trait_type": "Props"
+      },
+      {
+        "value": "none",
+        "trait_type": "Hair accessories"
+      },
+      {
+        "value": "none",
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
     "category": "Trait Count",
     "id": "sixtrait",
     "name": "6-Trait",
@@ -285,64 +343,51 @@
     "story": "",
     "colors": {
       "hair": "match-eyes",
-      "eyes": "match-clothes",
-      "clothes": "match-backdrop",
-      "backdrop": "match-backprop",
-      "backprop": "match-prop",
-      "prop": "match-hairprop"
+      "clothes": "match-eyes",
+      "backdrop": "match-eyes",
+      "backprop": "match-eyes",
+      "prop": "match-eyes",
+      "hairprop": "match-eyes"
     },
-    "whitelist": [7452, 3601]
+    "whitelist": [7452, 3601, 2473],
+    "sort": "backdrop-color"
   },
   {
     "category": "Color Match",
-    "id": "tricolorwave",
-    "name": "Tri Color Wave",
-    "poster": 5360,
+    "id": "purebreed",
+    "name": "Pure Breed",
+    "poster": 8794,
+    "story": "",
+    "colors": {
+      "hair": "match-eyes",
+      "clothes": "match-eyes"
+    },
+    "sort": "backdrop-color"
+  },
+  {
+    "category": "Color Match",
+    "id": "terno",
+    "name": "Terno",
+    "poster": 2841,
     "story": "",
     "colors": {
       "hair": "match-clothes",
-      "clothes": "match-backdrop"
-    }
+        "backdrop": "match-clothes"
+    },
+    "sort": "backdrop-color"
   },
   {
     "category": "Color Match",
-    "id": "piercingglare",
-    "name": "Piercing Glare",
-    "poster": 2260,
+    "id": "doubledouble",
+    "name": "Double Double",
+    "poster": 633,
     "story": "",
-    "traits": [
-      {
-        "value": "none",
-        "trait_type": "Tattoos"
-      },
-      {
-        "value": "none",
-        "trait_type": "Props"
-      }
-    ],
+    
     "colors": {
-      "eyes": "match-backdrop"
-    }
-  },
-  {
-    "category": "Color Match",
-    "id": "resonating",
-    "name": "Resonating",
-    "poster": 974,
-    "story": "",
-    "traits": [
-      {
-        "value": "none",
-        "trait_type": "Tattoos"
-      },
-      {
-        "value": "none",
-        "trait_type": "Props"
-      }
-    ],
-    "colors": {
-      "clothes": "match-backdrop"
-    }
+      "eyes": "match-clothes",
+      "hair": "match-backdrop"
+    },
+    "sort": "backdrop-color"
   },
   {
     "category": "Color Match",
@@ -350,10 +395,16 @@
     "name": "Blondie Swordie",
     "poster": 7456,
     "story": "",
+    "traits": [
+      {
+        "value": "Double Katana",
+        "trait_type": "Swords & Wings"
+      }
+    ],
     "colors": {
-      "hair": ["yellow"],
-      "backprop": ["yellow"]
-    }
+      "hair": "match-backprop"
+    },
+    "sort": "backdrop-color"
   },
   {
     "category": "Color Match",
