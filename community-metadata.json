@@ -822,7 +822,7 @@
     "story": "",
     "traits": [
       {
-        "value": ["Superhero"],
+        "value": ["Superhero", "Henley Shirt"],
         "trait_type": "Clothes"
       },
       {
