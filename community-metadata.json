@@ -656,7 +656,10 @@
         "value": ["Short"],
         "trait_type": "Hair"
       }
-    ]
+    ],
+    "colors": {
+      "Hair": ["brown"]
+    }
   },
   {
     "category": "Junks",
