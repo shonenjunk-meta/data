@@ -4,7 +4,25 @@
     "id": "sj_mascot",
     "name": "SJ Masukotto",
     "poster": 3892,
-    "story": ""
+    "story": "",
+    "traits": [
+      {
+        "value": ["Jagged Bob"],
+        "trait_type": "Hair"
+      },
+      {
+        "value": ["Cape"],
+        "trait_type": "Clothes",
+      },
+      {
+        "value": ["Medium Gradient"],
+        "trait_type": "Background"
+      },
+      {
+        "value": ["Inquisitive Brows"],
+        "trait_type": "Brows"
+      }
+    ]
   },
   {
     "category": "Armed",
