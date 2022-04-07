@@ -289,7 +289,7 @@
       "clothes": "match-backdrop",
       "backdrop": "match-backprop",
       "backprop": "match-prop",
-      "prop": "match-hairprop",
+      "prop": "match-hairprop"
     },
     "whitelist": [7452, 3601]
   },
