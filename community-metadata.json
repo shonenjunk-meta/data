@@ -605,6 +605,23 @@
     ]
   },
   {
+    "category": "Junks",
+    "id": "yugi",
+    "name": "Yugi",
+    "poster": 717,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Androgynous Jacket"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Star"],
+        "trait_type": "Hair"
+      }
+    ]
+  },
+  {
     "category": "Legendary",
     "id": "sentai",
     "name": "Sentai Helmet",
