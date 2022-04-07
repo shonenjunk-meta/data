@@ -412,6 +412,20 @@
     "name": "Black-Ops",
     "poster": 7793,
     "story": "",
+    "traits": [
+      {
+        "value": "none",
+        "trait_type": "Tattoos"
+      },
+      {
+        "value": "none",
+        "trait_type": "Props"
+      },
+      {
+        "value": "none",
+        "trait_type": "Hair accessories"
+      },
+    ],
     "colors": {
       "hair": ["black"],
       "backdrop": ["black"],
@@ -799,7 +813,41 @@
         "trait_type": "Hair"
       }
     ]
-  },  
+  },
+  {
+    "category": "Junks",
+    "id": "saitama",
+    "name": "Saitama",
+    "poster": 1783,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Superhero"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Bald"],
+        "trait_type": "Hair"
+      }
+    ]
+  },
+  {
+    "category": "Junks",
+    "id": "naruto_uzumaki",
+    "name": "Naruto Uzumaki",
+    "poster": 1708,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Turtleneck Sweater"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Spiky Top"],
+        "trait_type": "Hair"
+      }
+     ]
+  },
   {
     "category": "Legendary",
     "id": "sentai",
