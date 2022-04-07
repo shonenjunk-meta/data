@@ -639,6 +639,23 @@
     ]
   },
   {
+    "category": "Junks",
+    "id": "takumi",
+    "name": "Takumi",
+    "poster": 4810,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Polo Shirt"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Short"],
+        "trait_type": "Hair"
+      }
+    ]
+  },
+  {
     "category": "Legendary",
     "id": "sentai",
     "name": "Sentai Helmet",
