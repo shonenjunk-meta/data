@@ -16,6 +16,10 @@
       {
         "value": ["Inquisitive Brows"],
         "trait_type": "Brows"
+      },
+      {
+        "value": ["Medium Gradient"],
+        "trait_type": "Background"
       }
     ]
   },
