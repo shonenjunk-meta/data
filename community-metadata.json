@@ -622,6 +622,23 @@
     ]
   },
   {
+    "category": "Junks",
+    "id": "ichigo",
+    "name": "Ichigo",
+    "poster": 3333,
+    "story": "",
+    "traits": [
+      {
+        "value": ["School Boy Uniform"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Mid Shaggy"],
+        "trait_type": "Hair"
+      }
+    
+  }
+  {
     "category": "Legendary",
     "id": "sentai",
     "name": "Sentai Helmet",
