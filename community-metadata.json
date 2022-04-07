@@ -30,8 +30,8 @@
         "trait_type": "Nose & Mouth"
       },
       {
-        "value": ["none"],
-        "trait_type": "Props"
+        "value": ["blue"],
+        "trait_type": "Background"
       }
     ]
   },
