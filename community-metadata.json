@@ -28,6 +28,10 @@
       {
         "value": ["Happy Nose-Mouth"],
         "trait_type": "Nose & Mouth"
+      },
+      {
+        "value": ["none"],
+        "trait_type": "Hair accessories"
       }
     ]
   },
