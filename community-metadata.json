@@ -1,5 +1,12 @@
 [
   {
+    "category": "Premium Junkie",
+    "id": "sj_mascot",
+    "name": "SJ Masukotto",
+    "poster": 3892,
+    "story": ""
+  },
+  {
     "category": "Armed",
     "id": "psiops",
     "name": "PSI-Ops",
