@@ -188,6 +188,24 @@
     ]
   },
   {
+
+    "category": "Armed",
+    "id": "battle_angel",
+    "name": "Battle Angel",
+    "poster": 4911,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Angel Wings"],
+        "trait_type": "Swords & Wings"
+      },
+      {
+        "value": ["Battle Armor"],
+        "trait_type": "Clothes"
+      }
+    ]
+  },
+  {
     "category": "Unarmed",
     "id": "weeb",
     "name": "Weeb",
