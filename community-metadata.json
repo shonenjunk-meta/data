@@ -1,17 +1,17 @@
 [
   {
     "category": "Armed",
-    "id": "psiops",
-    "name": "PSI-Ops",
-    "poster": 1786,
+    "id": "battle_bots",
+    "name": "Batorubotto (Battle Bots)",
+    "poster": 326,
     "story": "",
     "traits": [
       {
-        "value": ["Sci-Fi Jacket"],
+        "value": ["Sci-Fi Jacket", "Fantasy Battle Gear", "Battle Armor", "Banded Collar Jacket"],
         "trait_type": "Clothes"
       },
       {
-        "value": ["Space Sword"],
+        "value": ["Space Sword", "Devil Wings", "Small Staff", "Space Sword", "Giant Sword", "Double Katana", "Magic Staff", "Staff", "Small Staff"],
         "trait_type": "Swords & Wings"
       }
     ]
