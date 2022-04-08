@@ -328,30 +328,19 @@
     ]
   },
   {
-    "category": "Unarmed",
-    "id": "martialartist",
-    "name": "Martial Artist",
-    "poster": 6187,
+
+    "category": "Armed",
+    "id": "martial_arts",
+    "name": "Budō (Martial Arts)",
+    "poster": 241,
     "story": "",
     "traits": [
       {
-        "value": ["Karate Gi"],
+        "value": ["School Boy Uniform", "Karate Gi", "Noragi", "School Girl Uniform B"],
         "trait_type": "Clothes"
       },
       {
-        "value": "none",
-        "trait_type": "Tattoos"
-      },
-      {
-        "value": "none",
-        "trait_type": "Props"
-      },
-      {
-        "value": "none",
-        "trait_type": "Hair accessories"
-      },
-      {
-        "value": "none",
+        "value": ["Angel Wings", "Devil Wings", "none"],
         "trait_type": "Swords & Wings"
       }
     ]
