@@ -260,6 +260,24 @@
     ]
   },
   {
+
+    "category": "Armed",
+    "id": "sniper",
+    "name": "Sogeki-hei (Sniper)",
+    "poster": 1663,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Eye Mask"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["M-16"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
     "category": "Unarmed",
     "id": "weeb",
     "name": "Weeb",
