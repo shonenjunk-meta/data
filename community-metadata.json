@@ -340,7 +340,7 @@
         "trait_type": "Clothes"
       },
       {
-        "value": ["Angel Wings", "Devil Wings", "none"],
+        "value": ["Angel Wings", "Devil Wings", "Blank"],
         "trait_type": "Swords & Wings"
       }
     ]
