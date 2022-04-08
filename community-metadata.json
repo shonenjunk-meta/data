@@ -328,6 +328,24 @@
     ]
   },
   {
+
+    "category": "Armed",
+    "id": "mastermind",
+    "name": "Nyūrochairudo (Mastermind)",
+    "poster": 6773,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Eye Mask"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["none"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
     "category": "Unarmed",
     "id": "martialartist",
     "name": "Martial Artist",
