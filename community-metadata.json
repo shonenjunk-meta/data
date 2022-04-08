@@ -232,7 +232,7 @@
     "story": "",
     "traits": [
       {
-        "value": ["Eye Mask"],
+        "value": ["Eye Mask", "Scanner"],
         "trait_type": "Props"
       },
       {
