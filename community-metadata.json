@@ -242,6 +242,24 @@
     ]
   },
   {
+
+    "category": "Armed",
+    "id": "combat_mage",
+    "name": "Sentō Meiji (Combat mage)",
+    "poster": 4193,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Eye Mask"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Magic Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
     "category": "Unarmed",
     "id": "weeb",
     "name": "Weeb",
