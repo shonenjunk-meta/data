@@ -208,24 +208,6 @@
   {
 
     "category": "Armed",
-    "id": "sword_master",
-    "name": "Sōdomasutā (Sword masters)",
-    "poster": 560,
-    "story": "",
-    "traits": [
-      {
-        "value": ["Eye Mask"],
-        "trait_type": "Props"
-      },
-      {
-        "value": ["Double Katana"],
-        "trait_type": "Swords & Wings"
-      }
-    ]
-  },
-  {
-
-    "category": "Armed",
     "id": "combat_master",
     "name": "Sentō masutā (Combat masters)",
     "poster": 1713,
@@ -236,7 +218,7 @@
         "trait_type": "Props"
       },
       {
-        "value": ["Tassel Sword", "Space Sword", "Giant Sword", "Small Staff", "Staff"],
+        "value": ["Tassel Sword", "Space Sword", "Giant Sword", "Small Staff", "Staff", "Double Katana", "Magic Staff"],
         "trait_type": "Swords & Wings"
       }
     ]
