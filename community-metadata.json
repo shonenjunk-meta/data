@@ -87,7 +87,7 @@
   {
     "category": "Armed",
     "id": "anbu",
-    "name": "ANBU",
+    "name": "Anbu Senshi",
     "poster": 6192,
     "story": "",
     "traits": [
@@ -237,6 +237,24 @@
       },
       {
         "value": ["M-16"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+
+    "category": "Armed",
+    "id": "martial_arts",
+    "name": "Budō (Martial Arts)",
+    "poster": 241,
+    "story": "",
+    "traits": [
+      {
+        "value": ["School Boy Uniform", "Karate Gi", "Noragi", "School Girl Uniform B"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Small Staff", "Tassel Sword", "Space Sword", "Giant Sword", "Angel Wings", "Devil Wings", "Double Katana", "Devil Wings", "Magic Staff", "Staff"],
         "trait_type": "Swords & Wings"
       }
     ]
