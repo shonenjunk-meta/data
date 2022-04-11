@@ -377,7 +377,7 @@
         "trait_type": "Clothes"
       },
       {
-        "value": ["Staff", "Small Staff"],
+        "value": ["Staff", "Small Staff", "Magic Staff],
         "trait_type": "Swords & Wings"
       }
     ],
@@ -400,27 +400,6 @@
       },
       {
         "value": ["M-16"],
-        "trait_type": "Swords & Wings"
-      }
-    ]
-  },
-  {
-    "category": "Armed",
-    "id": "chicwiththemagic",
-    "name": "Chic w/ the Magic",
-    "poster": 4911,
-    "story": "",
-    "traits": [
-      {
-        "value": ["Long", "Long Shaggy", "Long Full", "Bangs", "Bun", "Streak Highlight", "Mid Middle Part", "Pony Tail", "Long Wavy", "Pigtails", "Choppy"],
-        "trait_type": "Hair"
-      },
-      {
-        "value": ["School Girl Uniform A", "School Girl Uniform B", "School Boy Uniform"],
-        "trait_type": "Clothes"
-      },
-      {
-        "value": ["Magic Staff"],
         "trait_type": "Swords & Wings"
       }
     ]
