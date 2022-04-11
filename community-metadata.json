@@ -1,17 +1,221 @@
 [
   {
     "category": "Armed",
-    "id": "battle_bots",
-    "name": "Batorubotto (Battle Bots)",
-    "poster": 326,
+    "id": "whitemilitia",
+    "name": "White Militia",
+    "poster": 7643,
     "story": "",
     "traits": [
       {
-        "value": ["Sci-Fi Jacket", "Fantasy Battle Gear", "Battle Armor", "Banded Collar Jacket"],
+        "value": ["Polo Shirt", "Open Collar Shirt"],
         "trait_type": "Clothes"
       },
       {
-        "value": ["Space Sword", "Devil Wings", "Small Staff", "Space Sword", "Giant Sword", "Double Katana", "Magic Staff", "Staff", "Small Staff"],
+        "value": ["Space Sword", "Tassel Sword", "Giant Sword", "Double Katana", "Small Staff", "Staff", "M-16", "Magic Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Armed",
+    "id": "blackmilitia",
+    "name": "Black Militia",
+    "poster": 1165,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Turtleneck Sweater"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Space Sword", "Tassel Sword", "Giant Sword", "Double Katana", "Small Staff", "Staff", "M-16", "Magic Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Armed",
+    "id": "skymilitia",
+    "name": "Sky Militia",
+    "poster": 7744,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Sweatshirt"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Space Sword", "Tassel Sword", "Giant Sword", "Double Katana", "Small Staff", "Staff", "M-16", "Magic Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Armed",
+    "id": "militia",
+    "name": "Green Militia",
+    "poster": 6396,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Green Shirt"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Space Sword", "Tassel Sword", "Giant Sword", "Double Katana", "Small Staff", "Staff", "M-16", "Magic Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Armed",
+    "id": "bluemilitia",
+    "name": "Blue Militia",
+    "poster": 5487,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Blue Sweater"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Space Sword", "Tassel Sword", "Giant Sword", "Double Katana", "Small Staff", "Staff", "M-16", "Magic Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Armed",
+    "id": "purplemilitia",
+    "name": "Purple Militia",
+    "poster": 71,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Mock Neck Sweater", "Purple Polo Shirt"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Space Sword", "Tassel Sword", "Giant Sword", "Double Katana", "Small Staff", "Staff", "M-16", "Magic Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Armed",
+    "id": "rookie",
+    "name": "Rookie",
+    "poster": 1706,
+    "story": "",
+    "traits": [
+      {
+        "value": ["School Girl Uniform B"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Space Sword", "Tassel Sword", "Giant Sword", "Double Katana", "Small Staff", "Staff", "M-16", "Magic Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Armed",
+    "id": "noobie",
+    "name": "Noobie",
+    "poster": 7843,
+    "story": "",
+    "traits": [
+      {
+        "value": ["School Girl Uniform A"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Space Sword", "Tassel Sword", "Giant Sword", "Double Katana", "Small Staff", "Staff", "M-16", "Magic Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Armed",
+    "id": "apprentice",
+    "name": "Apprentice",
+    "poster": 4623,
+    "story": "",
+    "traits": [
+      {
+        "value": ["School Boy Uniform"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Space Sword", "Tassel Sword", "Giant Sword", "Double Katana", "Small Staff", "Staff", "M-16", "Magic Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Armed",
+    "id": "bard",
+    "name": "Bard",
+    "poster": 1999,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Marching Band Jacket"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Space Sword", "Tassel Sword", "Giant Sword", "Double Katana", "Small Staff", "Staff", "M-16", "Magic Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Armed",
+    "id": "gangster",
+    "name": "Ganster",
+    "poster": 7784,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Leather Jacket"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Space Sword", "Tassel Sword", "Giant Sword", "Double Katana", "Small Staff", "Staff", "M-16", "Magic Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Armed",
+    "id": "olympian",
+    "name": "Olympian",
+    "poster": 2177,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Sports Jersey"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Space Sword", "Tassel Sword", "Giant Sword", "Double Katana", "Small Staff", "Staff", "M-16", "Magic Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Armed",
+    "id": "psiops",
+    "name": "Psi-Ops",
+    "poster": 2660,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Sci-Fi Jacket"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Space Sword", "Tassel Sword", "Giant Sword", "Double Katana", "Small Staff", "Staff", "M-16", "Magic Staff"],
         "trait_type": "Swords & Wings"
       }
     ]
@@ -20,7 +224,7 @@
     "category": "Armed",
     "id": "cosmic",
     "name": "Cosmic",
-    "poster": 3598,
+    "poster": 8968,
     "story": "",
     "traits": [
       {
@@ -28,7 +232,7 @@
         "trait_type": "Clothes"
       },
       {
-        "value": ["Tassel Sword"],
+        "value": ["Space Sword", "Tassel Sword", "Giant Sword", "Double Katana", "Small Staff", "Staff", "M-16", "Magic Staff"],
         "trait_type": "Swords & Wings"
       }
     ]
@@ -37,7 +241,7 @@
     "category": "Armed",
     "id": "astral",
     "name": "Astral",
-    "poster": 2588,
+    "poster": 511,
     "story": "",
     "traits": [
       {
@@ -45,16 +249,16 @@
         "trait_type": "Clothes"
       },
       {
-        "value": ["Staff"],
+        "value": ["Space Sword", "Tassel Sword", "Giant Sword", "Double Katana", "Small Staff", "Staff", "M-16", "Magic Staff"],
         "trait_type": "Swords & Wings"
       }
     ]
   },
   {
     "category": "Armed",
-    "id": "legionary",
-    "name": "Legionary",
-    "poster": 3015,
+    "id": "rebel",
+    "name": "Rebel",
+    "poster": 4319,
     "story": "",
     "traits": [
       {
@@ -62,7 +266,7 @@
         "trait_type": "Clothes"
       },
       {
-        "value": ["Giant Sword"],
+        "value": ["Space Sword", "Tassel Sword", "Giant Sword", "Double Katana", "Small Staff", "Staff", "M-16", "Magic Staff"],
         "trait_type": "Swords & Wings"
       }
     ]
@@ -79,24 +283,160 @@
         "trait_type": "Clothes"
       },
       {
-        "value": ["Small Staff"],
+        "value": ["Space Sword", "Tassel Sword", "Giant Sword", "Double Katana", "Small Staff", "Staff", "M-16", "Magic Staff"],
         "trait_type": "Swords & Wings"
       }
     ]
   },
   {
     "category": "Armed",
-    "id": "anbu",
-    "name": "Anbu Senshi",
-    "poster": 6192,
+    "id": "armed samurai",
+    "name": "Armed Samurai",
+    "poster": 2850,
     "story": "",
     "traits": [
       {
-        "value": ["Kitsune Mask"],
-        "trait_type": "Props"
+        "value": ["Noragi"],
+        "trait_type": "Clothes"
       },
       {
-        "value": ["Double Katana"],
+        "value": ["Space Sword", "Tassel Sword", "Giant Sword", "Double Katana", "Small Staff", "Staff", "M-16", "Magic Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Armed",
+    "id": "swordsman",
+    "name": "Swordsman",
+    "poster": 7090,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Kimono"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Space Sword", "Tassel Sword", "Giant Sword", "Double Katana", "Small Staff", "Staff", "M-16", "Magic Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Armed",
+    "id": "classy",
+    "name": "Classy",
+    "poster": 1223,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Qipao"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Space Sword", "Tassel Sword", "Giant Sword", "Double Katana", "Small Staff", "Staff", "M-16", "Magic Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Armed",
+    "id": "virtualfighter",
+    "name": "virtual fighter",
+    "poster": 728,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Banded Collar Jacket"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Space Sword", "Tassel Sword", "Giant Sword", "Double Katana", "Small Staff", "Staff", "M-16", "Magic Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Armed",
+    "id": "superhero",
+    "name": "Superhero",
+    "poster": 4023,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Superhero"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Space Sword", "Tassel Sword", "Giant Sword", "Double Katana", "Small Staff", "Staff", "M-16", "Magic Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Armed",
+    "id": "infiltrator",
+    "name": "Infiltrator",
+    "poster": 8201,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Androgynous Jacket"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Space Sword", "Tassel Sword", "Giant Sword", "Double Katana", "Small Staff", "Staff", "M-16", "Magic Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Armed",
+    "id": "spy",
+    "name": "Spy",
+    "poster": 8217,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Popped Collar"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Space Sword", "Tassel Sword", "Giant Sword", "Double Katana", "Small Staff", "Staff", "M-16", "Magic Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Armed",
+    "id": "scout",
+    "name": "Scout",
+    "poster": 1027,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Field Jacket"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Space Sword", "Tassel Sword", "Giant Sword", "Double Katana", "Small Staff", "Staff", "M-16", "Magic Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Armed",
+    "id": "crusader",
+    "name": "Crusader",
+    "poster": 3892,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Cape"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Space Sword", "Tassel Sword", "Giant Sword", "Double Katana", "Small Staff", "Staff", "M-16", "Magic Staff"],
         "trait_type": "Swords & Wings"
       }
     ]
@@ -188,112 +528,19 @@
     ]
   },
   {
-
-    "category": "Armed",
-    "id": "battle_angel",
-    "name": "Battle Angel",
-    "poster": 7053,
-    "story": "",
-    "traits": [
-      {
-        "value": ["Angel Wings"],
-        "trait_type": "Swords & Wings"
-      },
-      {
-        "value": ["Battle Armor"],
-        "trait_type": "Clothes"
-      }
-    ]
-  },
-  {
-
-    "category": "Armed",
-    "id": "combat_master",
-    "name": "Sentō masutā (Combat masters)",
-    "poster": 1713,
-    "story": "",
-    "traits": [
-      {
-        "value": ["Eye Mask"],
-        "trait_type": "Props"
-      },
-      {
-        "value": ["Tassel Sword", "Space Sword", "Giant Sword", "Small Staff", "Staff", "Double Katana", "Magic Staff"],
-        "trait_type": "Swords & Wings"
-      }
-    ]
-  },
-  {
-
-    "category": "Armed",
-    "id": "sniper",
-    "name": "Sogeki-hei (Sniper)",
-    "poster": 1663,
-    "story": "",
-    "traits": [
-      {
-        "value": ["Eye Mask", "Scanner"],
-        "trait_type": "Props"
-      },
-      {
-        "value": ["M-16"],
-        "trait_type": "Swords & Wings"
-      }
-    ]
-  },
-  {
-
-    "category": "Armed",
-    "id": "martial_arts",
-    "name": "Budō (Martial Arts)",
-    "poster": 241,
-    "story": "",
-    "traits": [
-      {
-        "value": ["School Boy Uniform", "Karate Gi", "Noragi", "School Girl Uniform B"],
-        "trait_type": "Clothes"
-      },
-      {
-        "value": ["Small Staff", "Tassel Sword", "Space Sword", "Giant Sword", "Angel Wings", "Devil Wings", "Double Katana", "Devil Wings", "Magic Staff", "Staff"],
-        "trait_type": "Swords & Wings"
-      }
-    ]
-  },
-  {
     "category": "Unarmed",
-    "id": "weeb",
-    "name": "Weeb",
-    "poster": 1005,
+    "id": "lowkey",
+    "name": "Low-key",
+    "poster": 325,
     "story": "",
     "traits": [
       {
-        "value": ["School Boy Uniform"],
+        "value": ["Green Shirt", "Mock Neck Sweater", "Blue Sweater"],
         "trait_type": "Clothes"
-      },
-      {
-        "value": ["Glasses Red"],
-        "trait_type": "Props"
       },
       {
         "value": "none",
         "trait_type": "Swords & Wings"
-      }
-    ]
-  },
-  {
-    "category": "Unarmed",
-    "id": "cleanbean",
-    "name": "Clean Bean",
-    "poster": 2366,
-    "story": "",
-    "traits": [
-      {
-        "value": ["Bald"],
-        "trait_type": "Hair"
-      },
-      {
-        "value": "none",
-        "trait_type": "Tattoos"
       },
       {
         "value": "none",
@@ -305,50 +552,362 @@
       },
       {
         "value": "none",
-        "trait_type": "Swords & Wings"
+        "trait_type": "Tattoos"
       }
     ]
   },
   {
-
     "category": "Unarmed",
-    "id": "mastermind",
-    "name": "Nyūrochairudo (Mastermind)",
-    "poster": 6773,
+    "id": "clean",
+    "name": "Clean",
+    "poster": 1002,
     "story": "",
     "traits": [
       {
-        "value": ["Eye Mask"],
-        "trait_type": "Props"
-      },
-      {
-        "value": ["none"],
-        "trait_type": "Swords & Wings"
-      }
-    ]
-  },
-  {
-
-    "category": "Unarmed",
-    "id": "martial_arts",
-    "name": "Budō (Martial Arts)",
-    "poster": 241,
-    "story": "",
-    "traits": [
-      {
-        "value": ["School Boy Uniform", "Karate Gi", "Noragi", "School Girl Uniform B"],
+        "value": ["Polo Shirt", "Open Collar Shirt"],
         "trait_type": "Clothes"
       },
       {
-        "value": ["Angel Wings", "Devil Wings", "Blank"],
+        "value": "none",
         "trait_type": "Swords & Wings"
+      },
+      {
+        "value": "none",
+        "trait_type": "Props"
+      },
+      {
+        "value": "none",
+        "trait_type": "Hair accessories"
+      },
+      {
+        "value": "none",
+        "trait_type": "Tattoos"
       }
     ]
   },
   {
     "category": "Unarmed",
-    "id": "",
-    "name": "Superhero",
+    "id": "cleanpurple",
+    "name": "Clean Purple",
+    "poster": 138,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Purple Polo Shirt"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": "none",
+        "trait_type": "Swords & Wings"
+      },
+      {
+        "value": "none",
+        "trait_type": "Props"
+      },
+      {
+        "value": "none",
+        "trait_type": "Hair accessories"
+      },
+      {
+        "value": "none",
+        "trait_type": "Tattoos"
+      }
+    ]
+  },
+  {
+    "category": "Unarmed",
+    "id": "academic",
+    "name": "Academic",
+    "poster": 72,
+    "story": "",
+    "traits": [
+      {
+        "value": ["School Boy Uniform", "School Girl Uniform", "School Girl Uniform"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": "none",
+        "trait_type": "Swords & Wings"
+      },
+      {
+        "value": "none",
+        "trait_type": "Props"
+      },
+      {
+        "value": "none",
+        "trait_type": "Hair accessories"
+      },
+      {
+        "value": "none",
+        "trait_type": "Tattoos"
+      }
+    ]
+  },
+  {
+    "category": "Unarmed",
+    "id": "ethnic",
+    "name": "Ethnic",
+    "poster": 4341,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Kimono", "Qipao"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": "none",
+        "trait_type": "Swords & Wings"
+      },
+      {
+        "value": "none",
+        "trait_type": "Props"
+      },
+      {
+        "value": "none",
+        "trait_type": "Hair accessories"
+      },
+      {
+        "value": "none",
+        "trait_type": "Tattoos"
+      }
+    ]
+  },
+  {
+    "category": "Unarmed",
+    "id": "voyager",
+    "name": "Voyager",
+    "poster": 576,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Sci-Fi Jacket", "Space Suit A", "Space Suit B"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": "none",
+        "trait_type": "Swords & Wings"
+      },
+      {
+        "value": "none",
+        "trait_type": "Props"
+      },
+      {
+        "value": "none",
+        "trait_type": "Hair accessories"
+      },
+      {
+        "value": "none",
+        "trait_type": "Tattoos"
+      }
+    ]
+  },
+  {
+    "category": "Unarmed",
+    "id": "punk",
+    "name": "Punk",
+    "poster": 1258,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Androgynous Jacket", "Leather Jacket", "Banded Collar Jacket"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": "none",
+        "trait_type": "Swords & Wings"
+      },
+      {
+        "value": "none",
+        "trait_type": "Props"
+      },
+      {
+        "value": "none",
+        "trait_type": "Hair accessories"
+      },
+      {
+        "value": "none",
+        "trait_type": "Tattoos"
+      }
+    ]
+  },
+  {
+    "category": "Unarmed",
+    "id": "warrior",
+    "name": "Warrior",
+    "poster": 2555,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Battle Armor", "Fantasy Battle Gear"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": "none",
+        "trait_type": "Swords & Wings"
+      },
+      {
+        "value": "none",
+        "trait_type": "Props"
+      },
+      {
+        "value": "none",
+        "trait_type": "Hair accessories"
+      },
+      {
+        "value": "none",
+        "trait_type": "Tattoos"
+      }
+    ]
+  },
+  {
+    "category": "Unarmed",
+    "id": "athletic",
+    "name": "Athletic",
+    "poster": 3224,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Sweatshirt", "Sports Jersey", "Turtleneck Sweater"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": "none",
+        "trait_type": "Swords & Wings"
+      },
+      {
+        "value": "none",
+        "trait_type": "Props"
+      },
+      {
+        "value": "none",
+        "trait_type": "Hair accessories"
+      },
+      {
+        "value": "none",
+        "trait_type": "Tattoos"
+      }
+    ]
+  },
+  {
+    "category": "Unarmed",
+    "id": "musical",
+    "name": "Musical",
+    "poster": 2324,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Marching Band Jacket"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": "none",
+        "trait_type": "Swords & Wings"
+      },
+      {
+        "value": "none",
+        "trait_type": "Props"
+      },
+      {
+        "value": "none",
+        "trait_type": "Hair accessories"
+      },
+      {
+        "value": "none",
+        "trait_type": "Tattoos"
+      }
+    ]
+  },
+  {
+    "category": "Unarmed",
+    "id": "adventurer",
+    "name": "Adventurer",
+    "poster": 3046,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Henley Shirt", "Field Jacket"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": "none",
+        "trait_type": "Swords & Wings"
+      },
+      {
+        "value": "none",
+        "trait_type": "Props"
+      },
+      {
+        "value": "none",
+        "trait_type": "Hair accessories"
+      },
+      {
+        "value": "none",
+        "trait_type": "Tattoos"
+      }
+    ]
+  },
+  {
+    "category": "Unarmed",
+    "id": "samurai",
+    "name": "Samurai",
+    "poster": 1905,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Noragi"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": "none",
+        "trait_type": "Swords & Wings"
+      },
+      {
+        "value": "none",
+        "trait_type": "Props"
+      },
+      {
+        "value": "none",
+        "trait_type": "Hair accessories"
+      },
+      {
+        "value": "none",
+        "trait_type": "Tattoos"
+      }
+    ]
+  },
+  {
+    "category": "Unarmed",
+    "id": "mystic",
+    "name": "Mystic",
+    "poster": 416,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Cape"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": "none",
+        "trait_type": "Swords & Wings"
+      },
+      {
+        "value": "none",
+        "trait_type": "Props"
+      },
+      {
+        "value": "none",
+        "trait_type": "Hair accessories"
+      },
+      {
+        "value": "none",
+        "trait_type": "Tattoos"
+      }
+    ]
+  },
+  {
+    "category": "Unarmed",
+    "id": "heroic",
+    "name": "Heroic",
     "poster": 3525,
     "story": "",
     "traits": [
@@ -358,7 +917,7 @@
       },
       {
         "value": "none",
-        "trait_type": "Tattoos"
+        "trait_type": "Swords & Wings"
       },
       {
         "value": "none",
@@ -370,7 +929,36 @@
       },
       {
         "value": "none",
+        "trait_type": "Tattoos"
+      }
+    ]
+  },
+  {
+    "category": "Unarmed",
+    "id": "Martial Artist",
+    "name": "Martial Artist",
+    "poster": 1546,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Karate Gi"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": "none",
         "trait_type": "Swords & Wings"
+      },
+      {
+        "value": "none",
+        "trait_type": "Props"
+      },
+      {
+        "value": "none",
+        "trait_type": "Hair accessories"
+      },
+      {
+        "value": "none",
+        "trait_type": "Tattoos"
       }
     ]
   },
@@ -410,7 +998,7 @@
     "category": "Trait Count",
     "id": "tentrait",
     "name": "10-Trait",
-    "poster": 7052,
+    "poster": 8734,
     "story": "",
     "trait_count": 10
   },
@@ -544,6 +1132,35 @@
   },
   {
     "category": "Unique",
+    "id": "cleanbean",
+    "name": "Clean Bean",
+    "poster": 2366,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Bald"],
+        "trait_type": "Hair"
+      },
+      {
+        "value": "none",
+        "trait_type": "Tattoos"
+      },
+      {
+        "value": "none",
+        "trait_type": "Props"
+      },
+      {
+        "value": "none",
+        "trait_type": "Hair accessories"
+      },
+      {
+        "value": "none",
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Unique",
     "id": "saint",
     "name": "Saint",
     "poster": 35,
@@ -610,6 +1227,40 @@
       {
         "value": ["Battle Armor"],
         "trait_type": "Clothes"
+      }
+    ]
+  },
+  {
+    "category": "Armed",
+    "id": "battle_angel",
+    "name": "Battle Angel",
+    "poster": 7053,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Angel Wings"],
+        "trait_type": "Swords & Wings"
+      },
+      {
+        "value": ["Battle Armor"],
+        "trait_type": "Clothes"
+      }
+    ]
+  },
+  {
+    "category": "Unique",
+    "id": "sniper",
+    "name": "Sogeki-hei (Sniper)",
+    "poster": 1663,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Eye Mask", "Scanner"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["M-16"],
+        "trait_type": "Swords & Wings"
       }
     ]
   },
@@ -747,185 +1398,6 @@
         "trait_type": "Hair"
       }
     ]
-  },
-  {
-    "category": "Junks",
-    "id": "yugi",
-    "name": "Yugi",
-    "poster": 717,
-    "story": "",
-    "traits": [
-      {
-        "value": ["Androgynous Jacket"],
-        "trait_type": "Clothes"
-      },
-      {
-        "value": ["Star"],
-        "trait_type": "Hair"
-      }
-    ]
-  },
-  {
-    "category": "Junks",
-    "id": "ichigo",
-    "name": "Ichigo",
-    "poster": 6296,
-    "story": "",
-    "traits": [
-      {
-        "value": ["Kimono"],
-        "trait_type": "Clothes"
-      },
-      {
-        "value": ["Mid Shaggy"],
-        "trait_type": "Hair"
-      }
-    ],
-    "colors": {
-      "hair": ["orange"]
-    }
-  },
-  {
-    "category": "Junks",
-    "id": "takumi",
-    "name": "Takumi",
-    "poster": 4810,
-    "story": "",
-    "traits": [
-      {
-        "value": ["Polo Shirt"],
-        "trait_type": "Clothes"
-      },
-      {
-        "value": ["Short"],
-        "trait_type": "Hair"
-      }
-    ],
-    "colors": {
-      "hair": ["brown"]
-    }
-  },
-  {
-    "category": "Junks",
-    "id": "shoyo",
-    "name": "Shoyo Hinata",
-    "poster": 6244,
-    "story": "",
-    "traits": [
-      {
-        "value": ["Sports Jersey"],
-        "trait_type": "Clothes"
-      },
-      {
-        "value": ["Mid Shaggy"],
-        "trait_type": "Hair"
-      }
-    ],
-    "colors": {
-      "hair": ["orange"]
-    }
-  },
-  {
-    "category": "Junks",
-    "id": "sailor_moon",
-    "name": "Sailor Moon",
-    "poster": 1590,
-    "story": "",
-    "traits": [
-      {
-        "value": ["School Girl Uniform A"],
-        "trait_type": "Clothes"
-      },
-      {
-        "value": ["Pigtails"],
-        "trait_type": "Hair"
-      }
-    ]
-  },
-  {
-    "category": "Junks",
-    "id": "motoku_kusanagi",
-    "name": "Motoku Kusanagi",
-    "poster": 2458,
-    "story": "",
-    "traits": [
-      {
-        "value": ["Sci-Fi Jacket"],
-        "trait_type": "Clothes"
-      },
-      {
-        "value": ["Mid Middle Part"],
-        "trait_type": "Hair"
-      }
-    ]
-  },
-  {
-    "category": "Junks",
-    "id": "bojji",
-    "name": "Bojji",
-    "poster": 6476,
-    "story": "",
-    "traits": [
-      {
-        "value": ["Blue Sweater"],
-        "trait_type": "Clothes"
-      },
-      {
-        "value": ["Boyish Hair"],
-        "trait_type": "Hair"
-      }
-    ]
-  },
-  {
-    "category": "Junks",
-    "id": "edward_elric",
-    "name": "Edward Elric",
-    "poster": 4787,
-    "story": "",
-    "traits": [
-      {
-        "value": ["Cape"],
-        "trait_type": "Clothes"
-      },
-      {
-        "value": ["Pony Tail"],
-        "trait_type": "Hair"
-      }
-    ]
-  },
-  {
-    "category": "Junks",
-    "id": "saitama",
-    "name": "Saitama",
-    "poster": 1783,
-    "story": "",
-    "traits": [
-      {
-        "value": ["Superhero", "Henley Shirt"],
-        "trait_type": "Clothes"
-      },
-      {
-        "value": ["Bald"],
-        "trait_type": "Hair"
-      }
-    ]
-  },
-  {
-    "category": "Junks",
-    "id": "naruto_uzumaki",
-    "name": "Naruto Uzumaki",
-    "poster": 1708,
-    "story": "",
-    "traits": [
-      {
-        "value": ["Turtleneck Sweater"],
-        "trait_type": "Clothes"
-      },
-      {
-        "value": ["Spiky Top"],
-        "trait_type": "Hair"
-      }
-     ]
   },
   {
     "category": "Legendary",
@@ -1160,5 +1632,351 @@
         "trait_type": "Eyes"
       }
     ]
+  },
+  {
+    "category": "Junks",
+    "id": "yugi",
+    "name": "Yugi",
+    "poster": 717,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Androgynous Jacket"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Star"],
+        "trait_type": "Hair"
+      }
+    ]
+  },
+  {
+    "category": "Junks",
+    "id": "ichigo",
+    "name": "Ichigo",
+    "poster": 6296,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Kimono"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Mid Shaggy"],
+        "trait_type": "Hair"
+      }
+    ],
+    "colors": {
+      "hair": ["orange"]
+    }
+  },
+  {
+    "category": "Junks",
+    "id": "erenyager",
+    "name": "Eren Yager",
+    "poster": 438,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Field Jacket"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Short"],
+        "trait_type": "Hair"
+      }
+    ],
+    "colors": {
+      "hair": ["brown"]
+    }
+  },
+  {
+    "category": "Junks",
+    "id": "guts",
+    "name": "Guts",
+    "poster": 6135,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Fantasy Battle Gear"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Short Spiky Hair"],
+        "trait_type": "Hair"
+      }
+    ]
+  },
+  {
+    "category": "Junks",
+    "id": "mugen",
+    "name": "Mugen",
+    "poster": 1493,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Noragi"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Spiky Afro"],
+        "trait_type": "Hair"
+      }
+    ]
+  },
+  {
+    "category": "Junks",
+    "id": "kirito",
+    "name": "Kirito",
+    "poster": 6359,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Banded Collar Jacket"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Streaky"],
+        "trait_type": "Hair"
+      }
+    ]
+  },
+  {
+    "category": "Junks",
+    "id": "takumi",
+    "name": "Takumi",
+    "poster": 4810,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Polo Shirt"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Short"],
+        "trait_type": "Hair"
+      }
+    ],
+    "colors": {
+      "hair": ["brown"]
+    }
+  },
+  {
+    "category": "Junks",
+    "id": "shoyo",
+    "name": "Shoyo Hinata",
+    "poster": 6244,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Sports Jersey"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Mid Shaggy"],
+        "trait_type": "Hair"
+      }
+    ],
+    "colors": {
+      "hair": ["orange"]
+    }
+  },
+  {
+    "category": "Junks",
+    "id": "sailor_moon",
+    "name": "Sailor Moon",
+    "poster": 1590,
+    "story": "",
+    "traits": [
+      {
+        "value": ["School Girl Uniform A"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Pigtails"],
+        "trait_type": "Hair"
+      }
+    ]
+  },
+  {
+    "category": "Junks",
+    "id": "motoku_kusanagi",
+    "name": "Motoku Kusanagi",
+    "poster": 2458,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Sci-Fi Jacket"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Mid Middle Part"],
+        "trait_type": "Hair"
+      }
+    ]
+  },
+  {
+    "category": "Junks",
+    "id": "bojji",
+    "name": "Bojji",
+    "poster": 6476,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Blue Sweater"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Boyish Hair"],
+        "trait_type": "Hair"
+      }
+    ]
+  },
+  {
+    "category": "Junks",
+    "id": "edward_elric",
+    "name": "Edward Elric",
+    "poster": 4787,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Cape"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Pony Tail"],
+        "trait_type": "Hair"
+      }
+    ]
+  },
+  {
+    "category": "Junks",
+    "id": "saitama",
+    "name": "Saitama",
+    "poster": 1783,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Superhero", "Henley Shirt"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Bald"],
+        "trait_type": "Hair"
+      }
+    ]
+  },
+  {
+    "category": "Junks",
+    "id": "narutouzumaki",
+    "name": "Naruto Uzumaki",
+    "poster": 1708,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Turtleneck Sweater"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Spiky Top"],
+        "trait_type": "Hair"
+      }
+     ]
+  },{
+    "category": "Junks",
+    "id": "sakuraharuno",
+    "name": "Sakura Haruno",
+    "poster": 7800,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Qipao"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Mid Middle Part"],
+        "trait_type": "Hair"
+      }
+     ]
+  },
+  {
+    "category": "Look-A-Like",
+    "id": "chesterbennington",
+    "name": "Chester Bennington",
+    "poster": "images/posters/chesterbennington.png",
+    "story": "",
+    "whitelist": [6381]
+  },
+  {
+    "category": "Look-A-Like",
+    "id": "michelleyeoh",
+    "name": "Michelle Yeoh",
+    "poster": "images/posters/michelleyeoh.png",
+    "story": "",
+    "whitelist": [7587]
+  },
+  {
+    "category": "Look-A-Like",
+    "id": "madsmikkelson",
+    "name": "Mads Mikkelson",
+    "poster": "images/posters/madsmikkelson.png",
+    "story": "",
+    "whitelist": [3991, 3920]
+  },
+  {
+    "category": "Look-A-Like",
+    "id": "anyataylorjoy",
+    "name": "Anya Taylor-Joy",
+    "poster": "images/posters/anyataylorjoy.png",
+    "story": "",
+    "whitelist": [1082]
+  },
+  {
+    "category": "Look-A-Like",
+    "id": "paulbettany",
+    "name": "Paul Bettany",
+    "poster": "images/posters/paulbettany.png",
+    "story": "",
+    "whitelist": [7917]
+  },
+  {
+    "category": "Look-A-Like",
+    "id": "margotrobbie",
+    "name": "Margot Robbie",
+    "poster": "images/posters/margotrobbie.png",
+    "story": "",
+    "whitelist": [7874]
+  },
+  {
+    "category": "Look-A-Like",
+    "id": "adamdriver",
+    "name": "Adam Driver",
+    "poster": "images/posters/adamdriver.png",
+    "story": "",
+    "whitelist": [3941]
+  },
+  {
+    "category": "Look-A-Like",
+    "id": "merylstreep",
+    "name": "Meryl Streep",
+    "poster": "images/posters/merylstreep.png",
+    "story": "",
+    "whitelist": [4629]
+  },
+  {
+    "category": "Look-A-Like",
+    "id": "edsheeran",
+    "name": "Ed Sheeran",
+    "poster": "images/posters/edsheeran.png",
+    "story": "",
+    "whitelist": [14]
+  },
+  {
+    "category": "Look-A-Like",
+    "id": "brunomars",
+    "name": "Bruno Mars",
+    "poster": "images/posters/brunomars.png",
+    "story": "",
+    "whitelist": [741]
   }
 ]
