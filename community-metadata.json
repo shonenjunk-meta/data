@@ -215,15 +215,15 @@
         "trait_type": "Clothes"
       },
       {
-        "value": ["Space Sword", "Tassel Sword", "Giant Sword", "Double Katana", "Small Staff", "Staff", "M-16", "Magic Staff"],
+        "value": ["Space Sword", "Tassel Sword", "Giant Sword", "Double Katana"],
         "trait_type": "Swords & Wings"
       }
     ]
   },
   {
     "category": "Armed",
-    "id": "classy",
-    "name": "Classy",
+    "id": "dancer",
+    "name": "Odoriko (Dancer)",
     "poster": 1223,
     "story": "",
     "traits": [
@@ -257,7 +257,7 @@
   {
     "category": "Armed",
     "id": "superhero",
-    "name": "Superhero",
+    "name": "Sūpāhīrō (Superhero)",
     "poster": 4023,
     "story": "",
     "traits": [
@@ -273,30 +273,13 @@
   },
   {
     "category": "Armed",
-    "id": "infiltrator",
-    "name": "Infiltrator",
+    "id": "operative",
+    "name": "Shujutsu (Operative)",
     "poster": 8201,
     "story": "",
     "traits": [
       {
-        "value": ["Androgynous Jacket"],
-        "trait_type": "Clothes"
-      },
-      {
-        "value": ["Space Sword", "Tassel Sword", "Giant Sword", "Double Katana", "Small Staff", "Staff", "M-16", "Magic Staff"],
-        "trait_type": "Swords & Wings"
-      }
-    ]
-  },
-  {
-    "category": "Armed",
-    "id": "spy",
-    "name": "Spy",
-    "poster": 8217,
-    "story": "",
-    "traits": [
-      {
-        "value": ["Popped Collar"],
+        "value": ["Androgynous Jacket", "Popped Collar"],
         "trait_type": "Clothes"
       },
       {
