@@ -1,14 +1,13 @@
 [
-
   {
     "category": "Armed",
-    "id": "rookie",
-    "name": "Rookie",
-    "poster": 1706,
+    "id": "noobie",
+    "name": "Noobie",
+    "poster": 7843,
     "story": "",
     "traits": [
       {
-        "value": ["School Girl Uniform B"],
+        "value": ["School Girl Uniform A"],
         "trait_type": "Clothes"
       },
       {
@@ -19,13 +18,13 @@
   },
   {
     "category": "Armed",
-    "id": "noobie",
-    "name": "Noobie",
-    "poster": 7843,
+    "id": "rookie",
+    "name": "Rūkī (Rookie)",
+    "poster": 1706,
     "story": "",
     "traits": [
       {
-        "value": ["School Girl Uniform A"],
+        "value": ["School Girl Uniform B"],
         "trait_type": "Clothes"
       },
       {
@@ -240,8 +239,8 @@
   },
   {
     "category": "Armed",
-    "id": "virtualfighter",
-    "name": "virtual fighter",
+    "id": "beater",
+    "name": "Bītā (Beater)",
     "poster": 728,
     "story": "",
     "traits": [
@@ -544,8 +543,8 @@
   },
   {
     "category": "Unarmed",
-    "id": "ethnic",
-    "name": "Ethnic",
+    "id": "roots",
+    "name": "Genki (Roots)",
     "poster": 4341,
     "story": "",
     "traits": [
@@ -916,18 +915,6 @@
       "hairprop": "match-eyes"
     },
     "whitelist": [7452, 3601, 2473],
-    "sort": "backdrop-color"
-  },
-  {
-    "category": "Color Match",
-    "id": "purebreed",
-    "name": "Pure Breed",
-    "poster": 8794,
-    "story": "",
-    "colors": {
-      "hair": "match-eyes",
-      "clothes": "match-eyes"
-    },
     "sort": "backdrop-color"
   },
   {
@@ -1798,84 +1785,4 @@
       }
      ]
   },
-  {
-    "category": "Look-A-Like",
-    "id": "chesterbennington",
-    "name": "Chester Bennington",
-    "poster": "images/posters/chesterbennington.png",
-    "story": "",
-    "whitelist": [6381]
-  },
-  {
-    "category": "Look-A-Like",
-    "id": "michelleyeoh",
-    "name": "Michelle Yeoh",
-    "poster": "images/posters/michelleyeoh.png",
-    "story": "",
-    "whitelist": [7587]
-  },
-  {
-    "category": "Look-A-Like",
-    "id": "madsmikkelson",
-    "name": "Mads Mikkelson",
-    "poster": "images/posters/madsmikkelson.png",
-    "story": "",
-    "whitelist": [3991, 3920]
-  },
-  {
-    "category": "Look-A-Like",
-    "id": "anyataylorjoy",
-    "name": "Anya Taylor-Joy",
-    "poster": "images/posters/anyataylorjoy.png",
-    "story": "",
-    "whitelist": [1082]
-  },
-  {
-    "category": "Look-A-Like",
-    "id": "paulbettany",
-    "name": "Paul Bettany",
-    "poster": "images/posters/paulbettany.png",
-    "story": "",
-    "whitelist": [7917]
-  },
-  {
-    "category": "Look-A-Like",
-    "id": "margotrobbie",
-    "name": "Margot Robbie",
-    "poster": "images/posters/margotrobbie.png",
-    "story": "",
-    "whitelist": [7874]
-  },
-  {
-    "category": "Look-A-Like",
-    "id": "adamdriver",
-    "name": "Adam Driver",
-    "poster": "images/posters/adamdriver.png",
-    "story": "",
-    "whitelist": [3941]
-  },
-  {
-    "category": "Look-A-Like",
-    "id": "merylstreep",
-    "name": "Meryl Streep",
-    "poster": "images/posters/merylstreep.png",
-    "story": "",
-    "whitelist": [4629]
-  },
-  {
-    "category": "Look-A-Like",
-    "id": "edsheeran",
-    "name": "Ed Sheeran",
-    "poster": "images/posters/edsheeran.png",
-    "story": "",
-    "whitelist": [14]
-  },
-  {
-    "category": "Look-A-Like",
-    "id": "brunomars",
-    "name": "Bruno Mars",
-    "poster": "images/posters/brunomars.png",
-    "story": "",
-    "whitelist": [741]
-  }
 ]
