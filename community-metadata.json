@@ -818,7 +818,7 @@
     "story": "",
     "traits": [
       {
-        "value": ["Karate Gi"],
+        "value": ["Karate Gi", "Kimono", "Schoolboy Uniform"],
         "trait_type": "Clothes"
       },
       {
