@@ -291,7 +291,7 @@
   {
     "category": "Armed",
     "id": "scout",
-    "name": "Scout",
+    "name": "Sukauto (Scout)",
     "poster": 1027,
     "story": "",
     "traits": [
@@ -307,8 +307,8 @@
   },
   {
     "category": "Armed",
-    "id": "crusader",
-    "name": "Crusader",
+    "id": "pilot",
+    "name": "Pairotto (Pilot)",
     "poster": 3892,
     "story": "",
     "traits": [
