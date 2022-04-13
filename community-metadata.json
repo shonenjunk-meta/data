@@ -219,7 +219,7 @@
   {
     "category": "Legendary",
     "id": "sentai",
-    "name": "Sentai Helmet",
+    "name": "Sentai",
     "poster": 5498,
     "story": "",
     "meta_type": 0,
@@ -231,7 +231,7 @@
   {
     "category": "Legendary",
     "id": "mecha",
-    "name": "Mecha Helmet",
+    "name": "Mech Pilot",
     "poster": 321,
     "story": "",
     "meta_type": 0,
@@ -243,7 +243,7 @@
   {
     "category": "Legendary",
     "id": "forceaura",
-    "name": "Force Aura",
+    "name": "Charged",
     "poster": 548,
     "story": "",
     "meta_type": 0,
@@ -255,7 +255,7 @@
   {
     "category": "Legendary",
     "id": "birdhelmet",
-    "name": "Bird Helmet",
+    "name": "Ninja Pilot",
     "poster": 5150,
     "story": "",
     "meta_type": 0,
@@ -279,7 +279,7 @@
   {
     "category": "Legendary",
     "id": "raysbold",
-    "name": "Rays Bold",
+    "name": "Fired Up",
     "poster": 4107,
     "story": "",
     "meta_type": 0,
@@ -291,7 +291,7 @@
   {
     "category": "Legendary",
     "id": "commsa",
-    "name": "Comms A",
+    "name": "Linked",
     "poster": 3192,
     "story": "",
     "meta_type": 0,
@@ -303,7 +303,7 @@
   {
     "category": "Legendary",
     "id": "chunkyspikyhair",
-    "name": "Chunky Spiky Hair",
+    "name": "Saiyan",
     "poster": 7173,
     "story": "",
     "meta_type": 0,
@@ -315,7 +315,7 @@
   {
     "category": "Legendary",
     "id": "raysthin",
-    "name": "Rays Thin",
+    "name": "Passionate",
     "poster": 7881,
     "story": "",
     "meta_type": 0,
@@ -327,7 +327,7 @@
   {
     "category": "Legendary",
     "id": "partialmask",
-    "name": "Partial Mask",
+    "name": "Reaper",
     "poster": 2450,
     "story": "",
     "meta_type": 0,
@@ -339,7 +339,7 @@
   {
     "category": "Legendary",
     "id": "animeeyes",
-    "name": "Anime Eyes",
+    "name": "Animated",
     "poster": 2621,
     "story": "",
     "meta_type": 0,
@@ -351,7 +351,7 @@
   {
     "category": "Legendary",
     "id": "sketchynosemouth",
-    "name": "Sketchy Nose-Mouth",
+    "name": "Sketchy",
     "poster": 4730,
     "story": "",
     "meta_type": 0,
@@ -363,7 +363,7 @@
   {
     "category": "Legendary",
     "id": "focusedeyes",
-    "name": "Focused Eyes",
+    "name": "Focused",
     "poster": 7371,
     "story": "",
     "meta_type": 0,
@@ -375,7 +375,7 @@
   {
     "category": "Legendary",
     "id": "aloofeyes",
-    "name": "Aloof Eyes",
+    "name": "Aloof",
     "poster": 1126,
     "story": "",
     "meta_type": 0,
@@ -387,7 +387,7 @@
   {
     "category": "Legendary",
     "id": "commsb",
-    "name": "Comms B",
+    "name": "Wired",
     "poster": 3858,
     "story": "",
     "meta_type": 0,
@@ -399,7 +399,7 @@
   {
     "category": "Legendary",
     "id": "goggles",
-    "name": "Goggles",
+    "name": "Forger",
     "poster": 829,
     "story": "",
     "meta_type": 0,
@@ -423,7 +423,7 @@
   {
     "category": "Legendary",
     "id": "cyborgeyes",
-    "name": "Cyborg Eyes",
+    "name": "Cyborg",
     "poster": 334,
     "story": "",
     "meta_type": 0,
