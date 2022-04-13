@@ -1,1008 +1,1009 @@
-[{
-		"category": "Trait Count",
-		"id": "sixtrait",
-		"name": "6-Trait",
-		"poster": 694,
-		"story": "",
-		"meta_type": 0,
-		"trait_count": 6
-	},
-	{
-		"category": "Trait Count",
-		"id": "seventrait",
-		"name": "7-Trait",
-		"poster": 2283,
-		"story": "",
-		"meta_type": 0,
-		"trait_count": 7
-	},
-	{
-		"category": "Trait Count",
-		"id": "eighttrait",
-		"name": "8-Trait",
-		"poster": 4896,
-		"story": "",
-		"meta_type": 0,
-		"trait_count": 8
-	},
-	{
-		"category": "Trait Count",
-		"id": "ninetraint",
-		"name": "9-Trait",
-		"poster": 7527,
-		"story": "",
-		"meta_type": 0,
-		"trait_count": 9
-	},
-	{
-		"category": "Trait Count",
-		"id": "tentrait",
-		"name": "10-Trait",
-		"poster": 8734,
-		"story": "",
-		"meta_type": 0,
-		"trait_count": 10
-	},
-	{
-		"category": "Specs",
-		"id": "unarmed",
-		"name": "Unarmed",
-		"poster": 3859,
-		"story": "",
-		"meta_type": 0,
-		"traits": [{
-			"value": "none",
-			"trait_type": "Swords & Wings"
-		}]
-	},
-	{
-		"category": "Specs",
-		"id": "armed",
-		"name": "Armed",
-		"poster": 999,
-		"story": "",
-		"meta_type": 0,
-		"traits": [{
-			"value": ["Space Sword", "Tassel Sword", "Giant Sword", "Double Katana", "Small Staff", "Staff", "M-16", "Magic Staff"],
-			"trait_type": "Swords & Wings"
-		}]
-	},
-	{
-		"category": "Specs",
-		"id": "winged",
-		"name": "Winged",
-		"poster": 8117,
-		"story": "",
-		"meta_type": 0,
-		"traits": [{
-			"value": ["Angel Wings", "Devil Wings"],
-			"trait_type": "Swords & Wings"
-		}]
-	},
-	{
-		"category": "Specs",
-		"id": "clean",
-		"name": "Clean",
-		"poster": 4852,
-		"story": "",
-		"meta_type": 0,
-		"traits": [{
-			"value": "none",
-			"trait_type": "Tattoos"
-		}]
-	},
-	{
-		"category": "Specs",
-		"id": "scarred",
-		"name": "Scarred",
-		"poster": 3859,
-		"story": "",
-		"meta_type": 0,
-		"traits": [{
-			"value": ["Cut", "Scar", "Triple Cut", "Whiskers", "Partial Mask"],
-			"trait_type": "Tattoos"
-		}]
-	},
-	{
-		"category": "Specs",
-		"id": "simple",
-		"name": "Simple",
-		"poster": 109,
-		"story": "",
-		"meta_type": 0,
-		"traits": [{
-			"value": "none",
-			"trait_type": "Hair accessories"
-		}]
-	},
-	{
-		"category": "Specs",
-		"id": "fancy",
-		"name": "Fancy",
-		"poster": 374,
-		"story": "",
-		"meta_type": 0,
-		"traits": [{
-			"value": ["Cat Ears", "Hair Bun", "Goggles", "Comms B", "Comms A", "Straw Hat"],
-			"trait_type": "Hair accessories"
-		}]
-	},
-	{
-		"category": "Specs",
-		"id": "exposed",
-		"name": "Exposed",
-		"poster": 8476,
-		"story": "",
-		"meta_type": 0,
-		"traits": [{
-			"value": "none",
-			"trait_type": "Props"
-		}]
-	},
-	{
-		"category": "Specs",
-		"id": "concealed",
-		"name": "Concealed",
-		"poster": 1610,
-		"story": "",
-		"meta_type": 0,
-		"traits": [{
-			"value": ["Glasses", "Earrings", "Kitsune Mask", "Eye Mask", "Headband", "Eye Patch", "Stunner Shades", "Bird Headpiece", "Medical Eye Mask", "Scanner", "Bird Helmet", "Force Aura", "Mecha Helmet", "Sentai Helmet", "Bamboo"],
-			"trait_type": "Props"
-		}]
-	},
-	{
-		"category": "Color Match",
-		"id": "fourwaymatch",
-		"name": "4-Way Match",
-		"poster": 5536,
-		"story": "",
-		"meta_type": 0,
-		"colors": {
-			"max_match": 4
-		},
-		"whitelist": [7452, 3601, 2473],
-		"sort": "backdrop-color"
-	},
-	{
-		"category": "Color Match",
-		"id": "triplematch",
-		"name": "Triple Match",
-		"poster": 7476,
-		"story": "",
-		"meta_type": 0,
-		"colors": {
-			"max_match": 3
-		},
-		"sort": "backdrop-color"
-	},
-	{
-		"category": "Color Match",
-		"id": "doublematch",
-		"name": "Double Match",
-		"poster": 5698,
-		"story": "",
-		"meta_type": 0,
-		"colors": {
-			"max_match": 2,
-			"match_count": 1
-		},
-		"sort": "backdrop-color"
-	},
-	{
-		"category": "Color Match",
-		"id": "doubledoublematch",
-		"name": "Double2x Match",
-		"poster": 529,
-		"story": "",
-		"meta_type": 0,
-		"colors": {
-			"max_match": 2,
-			"match_count": 2
-		},
-		"sort": "backdrop-color"
-	},
-	{
-		"category": "Color Match",
-		"id": "fourseasons",
-		"name": "Four Seasons",
-		"poster": 1040,
-		"story": "",
-		"meta_type": 0,
-		"colors": {
-			"max_match": 1,
-			"match_count": 4
-		},
-		"sort": "backdrop-color"
-	},
-	{
-		"category": "Legendary",
-		"id": "sentai",
-		"name": "Sentai Helmet",
-		"poster": 5498,
-		"story": "",
-		"meta_type": 0,
-		"traits": [{
-			"value": ["Sentai Helmet"],
-			"trait_type": "Props"
-		}]
-	},
-	{
-		"category": "Legendary",
-		"id": "mecha",
-		"name": "Mecha Helmet",
-		"poster": 321,
-		"story": "",
-		"meta_type": 0,
-		"traits": [{
-			"value": ["Mecha Helmet"],
-			"trait_type": "Props"
-		}]
-	},
-	{
-		"category": "Legendary",
-		"id": "forceaura",
-		"name": "Force Aura",
-		"poster": 548,
-		"story": "",
-		"meta_type": 0,
-		"traits": [{
-			"value": ["Force Aura"],
-			"trait_type": "Props"
-		}]
-	},
-	{
-		"category": "Legendary",
-		"id": "birdhelmet",
-		"name": "Bird Helmet",
-		"poster": 5150,
-		"story": "",
-		"meta_type": 0,
-		"traits": [{
-			"value": ["Bird Helmet"],
-			"trait_type": "Props"
-		}]
-	},
-	{
-		"category": "Legendary",
-		"id": "strawhat",
-		"name": "Straw Hat",
-		"poster": 3512,
-		"story": "",
-		"meta_type": 0,
-		"traits": [{
-			"value": ["Straw Hat"],
-			"trait_type": "Hair accessories"
-		}]
-	},
-	{
-		"category": "Legendary",
-		"id": "raysbold",
-		"name": "Rays Bold",
-		"poster": 4107,
-		"story": "",
-		"meta_type": 0,
-		"traits": [{
-			"value": ["Rays Bold"],
-			"trait_type": "Background"
-		}]
-	},
-	{
-		"category": "Legendary",
-		"id": "commsa",
-		"name": "Comms A",
-		"poster": 3192,
-		"story": "",
-		"meta_type": 0,
-		"traits": [{
-			"value": ["Comms A"],
-			"trait_type": "Hair accessories"
-		}]
-	},
-	{
-		"category": "Legendary",
-		"id": "chunkyspikyhair",
-		"name": "Chunky Spiky Hair",
-		"poster": 7173,
-		"story": "",
-		"meta_type": 0,
-		"traits": [{
-			"value": ["Chunky Spiky Hair"],
-			"trait_type": "Hair"
-		}]
-	},
-	{
-		"category": "Legendary",
-		"id": "raysthin",
-		"name": "Rays Thin",
-		"poster": 7881,
-		"story": "",
-		"meta_type": 0,
-		"traits": [{
-			"value": ["Rays Thin"],
-			"trait_type": "Background"
-		}]
-	},
-	{
-		"category": "Legendary",
-		"id": "partialmask",
-		"name": "Partial Mask",
-		"poster": 2450,
-		"story": "",
-		"meta_type": 0,
-		"traits": [{
-			"value": ["Partial Mask"],
-			"trait_type": "Tattoos"
-		}]
-	},
-	{
-		"category": "Legendary",
-		"id": "animeeyes",
-		"name": "Anime Eyes",
-		"poster": 2621,
-		"story": "",
-		"meta_type": 0,
-		"traits": [{
-			"value": ["Anime Eyes"],
-			"trait_type": "Eyes"
-		}]
-	},
-	{
-		"category": "Legendary",
-		"id": "sketchynosemouth",
-		"name": "Sketchy Nose-Mouth",
-		"poster": 4730,
-		"story": "",
-		"meta_type": 0,
-		"traits": [{
-			"value": ["Sketchy Nose-Mouth"],
-			"trait_type": "Nose & Mouth"
-		}]
-	},
-	{
-		"category": "Legendary",
-		"id": "focusedeyes",
-		"name": "Focused Eyes",
-		"poster": 7371,
-		"story": "",
-		"meta_type": 0,
-		"traits": [{
-			"value": ["Focused Eyes"],
-			"trait_type": "Eyes"
-		}]
-	},
-	{
-		"category": "Legendary",
-		"id": "aloofeyes",
-		"name": "Aloof Eyes",
-		"poster": 1126,
-		"story": "",
-		"meta_type": 0,
-		"traits": [{
-			"value": ["Aloof Eyes"],
-			"trait_type": "Eyes"
-		}]
-	},
-	{
-		"category": "Legendary",
-		"id": "commsb",
-		"name": "Comms B",
-		"poster": 3858,
-		"story": "",
-		"meta_type": 0,
-		"traits": [{
-			"value": ["Comms B"],
-			"trait_type": "Hair accessories"
-		}]
-	},
-	{
-		"category": "Legendary",
-		"id": "goggles",
-		"name": "Goggles",
-		"poster": 829,
-		"story": "",
-		"meta_type": 0,
-		"traits": [{
-			"value": ["Goggles"],
-			"trait_type": "Hair accessories"
-		}]
-	},
-	{
-		"category": "Legendary",
-		"id": "starhair",
-		"name": "Star",
-		"poster": 1389,
-		"story": "",
-		"meta_type": 0,
-		"traits": [{
-			"value": ["Star"],
-			"trait_type": "Hair"
-		}]
-	},
-	{
-		"category": "Legendary",
-		"id": "cyborgeyes",
-		"name": "Cyborg Eyes",
-		"poster": 334,
-		"story": "",
-		"meta_type": 0,
-		"traits": [{
-			"value": ["Cyborg Eyes"],
-			"trait_type": "Eyes"
-		}]
-	},
-	{
-		"category": "Unique",
-		"id": "cleanbean",
-		"name": "Clean Bean",
-		"poster": 2366,
-		"story": "",
-		"traits": [{
-				"value": ["Bald"],
-				"trait_type": "Hair"
-			},
-			{
-				"value": "none",
-				"trait_type": "Tattoos"
-			},
-			{
-				"value": "none",
-				"trait_type": "Props"
-			},
-			{
-				"value": "none",
-				"trait_type": "Hair accessories"
-			},
-			{
-				"value": "none",
-				"trait_type": "Swords & Wings"
-			}
-		]
-	},
-	{
-		"category": "Unique",
-		"id": "saint",
-		"name": "Saint",
-		"poster": 35,
-		"story": "",
-		"traits": [{
-				"value": ["Angel Wings"],
-				"trait_type": "Swords & Wings"
-			},
-			{
-				"value": ["Polo Shirt", "Open Collar Shirt"],
-				"trait_type": "Clothes"
-			}
-		],
-		"colors": {
-			"clothes": ["white"]
-		}
-	},
-	{
-		"category": "Unique",
-		"id": "fallen",
-		"name": "Fallen",
-		"poster": 4496,
-		"story": "",
-		"traits": [{
-				"value": ["Cape"],
-				"trait_type": "Clothes"
-			},
-			{
-				"value": ["Devil Wings"],
-				"trait_type": "Swords & Wings"
-			}
-		]
-	},
-	{
-		"category": "Unique",
-		"id": "chad",
-		"name": "Chad",
-		"poster": 3576,
-		"story": "",
-		"traits": [{
-				"value": ["Cape"],
-				"trait_type": "Clothes"
-			},
-			{
-				"value": ["Stunner Shades"],
-				"trait_type": "Props"
-			}
-		]
-	},
-	{
-		"category": "Unique",
-		"id": "fullcyborg",
-		"name": "Full-Cyborg",
-		"poster": 4333,
-		"story": "",
-		"traits": [{
-				"value": ["Cyborg Eyes"],
-				"trait_type": "Eyes"
-			},
-			{
-				"value": ["Battle Armor"],
-				"trait_type": "Clothes"
-			}
-		]
-	},
-	{
-		"category": "Unique",
-		"id": "berserker",
-		"name": "Berserker",
-		"poster": 2454,
-		"story": "",
-		"traits": [{
-				"value": ["Giant Sword"],
-				"trait_type": "Swords & Wings"
-			},
-			{
-				"value": ["Battle Armor"],
-				"trait_type": "Clothes"
-			}
-		]
-	},
-	{
-		"category": "Unique",
-		"id": "battleangel",
-		"name": "Battle Angel",
-		"poster": 7053,
-		"story": "",
-		"traits": [{
-				"value": ["Angel Wings"],
-				"trait_type": "Swords & Wings"
-			},
-			{
-				"value": ["Battle Armor"],
-				"trait_type": "Clothes"
-			}
-		]
-	},
-	{
-		"category": "Unique",
-		"id": "neko",
-		"name": "Neko",
-		"poster": 4513,
-		"story": "",
-		"traits": [{
-				"value": ["Cat Ears"],
-				"trait_type": "Hair accessories"
-			},
-			{
-				"value": ["Whiskers"],
-				"trait_type": "Tattoos"
-			}
-		]
-	},
-	{
-		"category": "Unique",
-		"id": "sniper",
-		"name": "Sniper",
-		"poster": 8007,
-		"story": "",
-		"traits": [{
-				"value": ["Scanner"],
-				"trait_type": "Props"
-			},
-			{
-				"value": ["M-16"],
-				"trait_type": "Swords & Wings"
-			}
-		]
-	},
-	{
-		"category": "Unique",
-		"id": "master sniper",
-		"name": "Master Sniper",
-		"poster": 1663,
-		"story": "",
-		"traits": [{
-				"value": ["Eye Mask"],
-				"trait_type": "Props"
-			},
-			{
-				"value": ["M-16"],
-				"trait_type": "Swords & Wings"
-			}
-		]
-	},
-	{
-		"category": "Unique",
-		"id": "anbu",
-		"name": "True ANBU",
-		"poster": 3072,
-		"story": "",
-		"traits": [{
-				"value": ["Kitsune Mask"],
-				"trait_type": "Props"
-			},
-			{
-				"value": ["Double Katana"],
-				"trait_type": "Swords & Wings"
-			}
-		]
-	},
-	{
-		"category": "Unique",
-		"id": "silverbuzz",
-		"name": "Silver Buzz",
-		"poster": 2939,
-		"story": "",
-		"traits": [{
-			"value": ["Jagged Bob"],
-			"trait_type": "Hair"
-		}],
-		"colors": {
-			"hair": ["silver"]
-		}
-	},
-	{
-		"category": "Unique",
-		"id": "cosmicpilot",
-		"name": "Cosmic Pilot",
-		"poster": 3610,
-		"story": "",
-		"traits": [{
-				"value": ["Space Suit B"],
-				"trait_type": "Clothes"
-			},
-			{
-				"value": ["Comms B"],
-				"trait_type": "Hair accessories"
-			}
-		]
-	},
-	{
-		"category": "Unique",
-		"id": "hybrid cosmicpilot",
-		"name": "Hybrid Cosmic Pilot",
-		"poster": 734,
-		"story": "",
-		"traits": [{
-				"value": ["Space Suit B"],
-				"trait_type": "Clothes"
-			},
-			{
-				"value": ["Comms A"],
-				"trait_type": "Hair accessories"
-			}
-		]
-	},
-	{
-		"category": "Unique",
-		"id": "astralpilot",
-		"name": "Astral Pilot",
-		"poster": 2504,
-		"story": "",
-		"traits": [{
-				"value": ["Space Suit A"],
-				"trait_type": "Clothes"
-			},
-			{
-				"value": ["Comms A"],
-				"trait_type": "Hair accessories"
-			}
-		]
-	},
-	{
-		"category": "Unique",
-		"id": "hybridastralpilot",
-		"name": "Hybrid Astral Pilot",
-		"poster": 5079,
-		"story": "",
-		"traits": [{
-				"value": ["Space Suit A"],
-				"trait_type": "Clothes"
-			},
-			{
-				"value": ["Comms B"],
-				"trait_type": "Hair accessories"
-			}
-		]
-	},
-	{
-		"category": "Junks",
-		"id": "yugi",
-		"name": "Yugi",
-		"poster": 717,
-		"story": "",
-		"traits": [{
-				"value": ["Androgynous Jacket"],
-				"trait_type": "Clothes"
-			},
-			{
-				"value": ["Star"],
-				"trait_type": "Hair"
-			}
-		]
-	},
-	{
-		"category": "Junks",
-		"id": "ichigo",
-		"name": "Ichigo",
-		"poster": 2736,
-		"story": "",
-		"traits": [{
-				"value": ["Kimono"],
-				"trait_type": "Clothes"
-			},
-			{
-				"value": ["Long Spiky Hair"],
-				"trait_type": "Hair"
-			}
-		],
-		"colors": {
-			"hair": ["orange"]
-		}
-	},
-	{
-		"category": "Junks",
-		"id": "erenyager",
-		"name": "Eren Yager",
-		"poster": 438,
-		"story": "",
-		"traits": [{
-				"value": ["Field Jacket"],
-				"trait_type": "Clothes"
-			},
-			{
-				"value": ["Short"],
-				"trait_type": "Hair"
-			}
-		],
-		"colors": {
-			"hair": ["brown"]
-		}
-	},
-	{
-		"category": "Junks",
-		"id": "guts",
-		"name": "Guts",
-		"poster": 6135,
-		"story": "",
-		"traits": [{
-				"value": ["Fantasy Battle Gear"],
-				"trait_type": "Clothes"
-			},
-			{
-				"value": ["Short Spiky Hair"],
-				"trait_type": "Hair"
-			}
-		]
-	},
-	{
-		"category": "Junks",
-		"id": "mugen",
-		"name": "Mugen",
-		"poster": 1493,
-		"story": "",
-		"traits": [{
-				"value": ["Noragi"],
-				"trait_type": "Clothes"
-			},
-			{
-				"value": ["Spiky Afro"],
-				"trait_type": "Hair"
-			}
-		]
-	},
-	{
-		"category": "Junks",
-		"id": "kirito",
-		"name": "Kirito",
-		"poster": 6359,
-		"story": "",
-		"traits": [{
-				"value": ["Banded Collar Jacket"],
-				"trait_type": "Clothes"
-			},
-			{
-				"value": ["Streaky"],
-				"trait_type": "Hair"
-			}
-		]
-	},
-	{
-		"category": "Junks",
-		"id": "shoyo",
-		"name": "Shoyo Hinata",
-		"poster": 6244,
-		"story": "",
-		"traits": [{
-				"value": ["Sports Jersey"],
-				"trait_type": "Clothes"
-			},
-			{
-				"value": ["Mid Shaggy"],
-				"trait_type": "Hair"
-			}
-		],
-		"colors": {
-			"hair": ["orange"]
-		}
-	},
-	{
-		"category": "Junks",
-		"id": "sailor_moon",
-		"name": "Sailor Moon",
-		"poster": 1590,
-		"story": "",
-		"traits": [{
-				"value": ["School Girl Uniform A"],
-				"trait_type": "Clothes"
-			},
-			{
-				"value": ["Pigtails"],
-				"trait_type": "Hair"
-			}
-		]
-	},
-	{
-		"category": "Junks",
-		"id": "motoku_kusanagi",
-		"name": "Motoku Kusanagi",
-		"poster": 5183,
-		"story": "",
-		"traits": [{
-				"value": ["Sci-Fi Jacket"],
-				"trait_type": "Clothes"
-			},
-			{
-				"value": ["Choppy"],
-				"trait_type": "Hair"
-			}
-		]
-	},
-	{
-		"category": "Junks",
-		"id": "edward_elric",
-		"name": "Edward Elric",
-		"poster": 4787,
-		"story": "",
-		"traits": [{
-				"value": ["Cape"],
-				"trait_type": "Clothes"
-			},
-			{
-				"value": ["Pony Tail"],
-				"trait_type": "Hair"
-			}
-		],
-		"whitelist": [8990]
-	},
-	{
-		"category": "Junks",
-		"id": "saitama",
-		"name": "Saitama",
-		"poster": 1783,
-		"story": "",
-		"traits": [{
-				"value": ["Superhero", "Henley Shirt"],
-				"trait_type": "Clothes"
-			},
-			{
-				"value": ["Bald"],
-				"trait_type": "Hair"
-			}
-		]
-	},
-	{
-		"category": "Junks",
-		"id": "narutouzumaki",
-		"name": "Naruto Uzumaki",
-		"poster": 1708,
-		"story": "",
-		"traits": [{
-				"value": ["Turtleneck Sweater"],
-				"trait_type": "Clothes"
-			},
-			{
-				"value": ["Spiky Top"],
-				"trait_type": "Hair"
-			}
-		]
-	}, {
-		"category": "Junks",
-		"id": "sakuraharuno",
-		"name": "Sakura Haruno",
-		"poster": 7800,
-		"story": "",
-		"traits": [{
-				"value": ["Qipao"],
-				"trait_type": "Clothes"
-			},
-			{
-				"value": ["Mid Middle Part"],
-				"trait_type": "Hair"
-			}
-		]
-	},
-	{
-		"category": "Celeb Look-A-Like",
-		"id": "chesterbennington",
-		"name": "Chester Bennington",
-		"poster": "images/posters/chesterbennington.png",
-		"story": "",
-		"whitelist": [6381]
-	},
-	{
-		"category": "Celeb Look-A-Like",
-		"id": "michelleyeoh",
-		"name": "Michelle Yeoh",
-		"poster": "images/posters/michelleyeoh.png",
-		"story": "",
-		"whitelist": [7587]
-	},
-	{
-		"category": "Celeb Look-A-Like",
-		"id": "madsmikkelson",
-		"name": "Mads Mikkelson",
-		"poster": "images/posters/madsmikkelson.png",
-		"story": "",
-		"whitelist": [3991, 3920]
-	},
-	{
-		"category": "Celeb Look-A-Like",
-		"id": "anyataylorjoy",
-		"name": "Anya Taylor-Joy",
-		"poster": "images/posters/anyataylorjoy.png",
-		"story": "",
-		"whitelist": [1082]
-	},
-	{
-		"category": "Celeb Look-A-Like",
-		"id": "margotrobbie",
-		"name": "Margot Robbie",
-		"poster": "images/posters/margotrobbie.png",
-		"story": "",
-		"whitelist": [7874]
-	},
-	{
-		"category": "Celeb Look-A-Like",
-		"id": "adamdriver",
-		"name": "Adam Driver",
-		"poster": "images/posters/adamdriver.png",
-		"story": "",
-		"whitelist": [3941]
-	},
-	{
-		"category": "Celeb Look-A-Like",
-		"id": "merylstreep",
-		"name": "Meryl Streep",
-		"poster": "images/posters/merylstreep.png",
-		"story": "",
-		"whitelist": [4629]
-	},
-	{
-		"category": "Celeb Look-A-Like",
-		"id": "edsheeran",
-		"name": "Ed Sheeran",
-		"poster": "images/posters/edsheeran.png",
-		"story": "",
-		"whitelist": [14]
-	},
-	{
-		"category": "Celeb Look-A-Like",
-		"id": "brunomars",
-		"name": "Bruno Mars",
-		"poster": "images/posters/brunomars.png",
-		"story": "",
-		"whitelist": [741]
-	},
-	{
-		"category": "Celeb Look-A-Like",
-		"id": "michaeljackson",
-		"name": "Michael Jackson",
-		"poster": "images/posters/michaeljackson.png",
-		"story": "",
-		"traits": [{
-				"value": ["Leather Jacket", "Cape", "Banded Collar Jacket", "Marching Band Jacket"],
-				"trait_type": "Clothes"
-			},
-			{
-				"value": ["Hat Hair"],
-				"trait_type": "Hair"
-			}
-		]
-	}
+[
+  {
+    "category": "Trait Count",
+    "id": "sixtrait",
+    "name": "6-Trait",
+    "poster": 694,
+    "story": "",
+    "meta_type": 0,
+    "trait_count": 6
+  },
+  {
+    "category": "Trait Count",
+    "id": "seventrait",
+    "name": "7-Trait",
+    "poster": 2283,
+    "story": "",
+    "meta_type": 0,
+    "trait_count": 7
+  },
+  {
+    "category": "Trait Count",
+    "id": "eighttrait",
+    "name": "8-Trait",
+    "poster": 4896,
+    "story": "",
+    "meta_type": 0,
+    "trait_count": 8
+  },
+  {
+    "category": "Trait Count",
+    "id": "ninetraint",
+    "name": "9-Trait",
+    "poster": 7527,
+    "story": "",
+    "meta_type": 0,
+    "trait_count": 9
+  },
+  {
+    "category": "Trait Count",
+    "id": "tentrait",
+    "name": "10-Trait",
+    "poster": 8734,
+    "story": "",
+    "meta_type": 0,
+    "trait_count": 10
+  },
+  {
+    "category": "Specs",
+    "id": "unarmed",
+    "name": "Unarmed",
+    "poster": 3859,
+    "story": "",
+    "meta_type": 0,
+    "traits": [{
+      "value": "none",
+      "trait_type": "Swords & Wings"
+    }]
+  },
+  {
+    "category": "Specs",
+    "id": "armed",
+    "name": "Armed",
+    "poster": 999,
+    "story": "",
+    "meta_type": 0,
+    "traits": [{
+      "value": ["Space Sword", "Tassel Sword", "Giant Sword", "Double Katana", "Small Staff", "Staff", "M-16", "Magic Staff"],
+      "trait_type": "Swords & Wings"
+    }]
+  },
+  {
+    "category": "Specs",
+    "id": "winged",
+    "name": "Winged",
+    "poster": 8117,
+    "story": "",
+    "meta_type": 0,
+    "traits": [{
+      "value": ["Angel Wings", "Devil Wings"],
+      "trait_type": "Swords & Wings"
+    }]
+  },
+  {
+    "category": "Specs",
+    "id": "clean",
+    "name": "Clean",
+    "poster": 4852,
+    "story": "",
+    "meta_type": 0,
+    "traits": [{
+      "value": "none",
+      "trait_type": "Tattoos"
+    }]
+  },
+  {
+    "category": "Specs",
+    "id": "scarred",
+    "name": "Scarred",
+    "poster": 3859,
+    "story": "",
+    "meta_type": 0,
+    "traits": [{
+      "value": ["Cut", "Scar", "Triple Cut", "Whiskers", "Partial Mask"],
+      "trait_type": "Tattoos"
+    }]
+  },
+  {
+    "category": "Specs",
+    "id": "simple",
+    "name": "Simple",
+    "poster": 109,
+    "story": "",
+    "meta_type": 0,
+    "traits": [{
+      "value": "none",
+      "trait_type": "Hair accessories"
+    }]
+  },
+  {
+    "category": "Specs",
+    "id": "fancy",
+    "name": "Fancy",
+    "poster": 374,
+    "story": "",
+    "meta_type": 0,
+    "traits": [{
+      "value": ["Cat Ears", "Hair Bun", "Goggles", "Comms B", "Comms A", "Straw Hat"],
+      "trait_type": "Hair accessories"
+    }]
+  },
+  {
+    "category": "Specs",
+    "id": "exposed",
+    "name": "Exposed",
+    "poster": 8476,
+    "story": "",
+    "meta_type": 0,
+    "traits": [{
+      "value": "none",
+      "trait_type": "Props"
+    }]
+  },
+  {
+    "category": "Specs",
+    "id": "concealed",
+    "name": "Concealed",
+    "poster": 1610,
+    "story": "",
+    "meta_type": 0,
+    "traits": [{
+      "value": ["Glasses", "Earrings", "Kitsune Mask", "Eye Mask", "Headband", "Eye Patch", "Stunner Shades", "Bird Headpiece", "Medical Eye Mask", "Scanner", "Bird Helmet", "Force Aura", "Mecha Helmet", "Sentai Helmet", "Bamboo"],
+      "trait_type": "Props"
+    }]
+  },
+  {
+    "category": "Color Match",
+    "id": "fourwaymatch",
+    "name": "4-Way Match",
+    "poster": 5536,
+    "story": "",
+    "meta_type": 0,
+    "colors": {
+      "max_match": 4
+    },
+    "whitelist": [7452, 3601, 2473],
+    "sort": "backdrop-color"
+  },
+  {
+    "category": "Color Match",
+    "id": "triplematch",
+    "name": "Triple Match",
+    "poster": 7476,
+    "story": "",
+    "meta_type": 0,
+    "colors": {
+      "max_match": 3
+    },
+    "sort": "backdrop-color"
+  },
+  {
+    "category": "Color Match",
+    "id": "doublematch",
+    "name": "Double Match",
+    "poster": 5698,
+    "story": "",
+    "meta_type": 0,
+    "colors": {
+      "max_match": 2,
+      "match_count": 1
+    },
+    "sort": "backdrop-color"
+  },
+  {
+    "category": "Color Match",
+    "id": "doubledoublematch",
+    "name": "Double2x Match",
+    "poster": 529,
+    "story": "",
+    "meta_type": 0,
+    "colors": {
+      "max_match": 2,
+      "match_count": 2
+    },
+    "sort": "backdrop-color"
+  },
+  {
+    "category": "Color Match",
+    "id": "fourseasons",
+    "name": "Four Seasons",
+    "poster": 1040,
+    "story": "",
+    "meta_type": 0,
+    "colors": {
+      "max_match": 1,
+      "match_count": 4
+    },
+    "sort": "backdrop-color"
+  },
+  {
+    "category": "Legendary",
+    "id": "sentai",
+    "name": "Sentai Helmet",
+    "poster": 5498,
+    "story": "",
+    "meta_type": 0,
+    "traits": [{
+      "value": ["Sentai Helmet"],
+      "trait_type": "Props"
+    }]
+  },
+  {
+    "category": "Legendary",
+    "id": "mecha",
+    "name": "Mecha Helmet",
+    "poster": 321,
+    "story": "",
+    "meta_type": 0,
+    "traits": [{
+      "value": ["Mecha Helmet"],
+      "trait_type": "Props"
+    }]
+  },
+  {
+    "category": "Legendary",
+    "id": "forceaura",
+    "name": "Force Aura",
+    "poster": 548,
+    "story": "",
+    "meta_type": 0,
+    "traits": [{
+      "value": ["Force Aura"],
+      "trait_type": "Props"
+    }]
+  },
+  {
+    "category": "Legendary",
+    "id": "birdhelmet",
+    "name": "Bird Helmet",
+    "poster": 5150,
+    "story": "",
+    "meta_type": 0,
+    "traits": [{
+      "value": ["Bird Helmet"],
+      "trait_type": "Props"
+    }]
+  },
+  {
+    "category": "Legendary",
+    "id": "strawhat",
+    "name": "Straw Hat",
+    "poster": 3512,
+    "story": "",
+    "meta_type": 0,
+    "traits": [{
+      "value": ["Straw Hat"],
+      "trait_type": "Hair accessories"
+    }]
+  },
+  {
+    "category": "Legendary",
+    "id": "raysbold",
+    "name": "Rays Bold",
+    "poster": 4107,
+    "story": "",
+    "meta_type": 0,
+    "traits": [{
+      "value": ["Rays Bold"],
+      "trait_type": "Background"
+    }]
+  },
+  {
+    "category": "Legendary",
+    "id": "commsa",
+    "name": "Comms A",
+    "poster": 3192,
+    "story": "",
+    "meta_type": 0,
+    "traits": [{
+      "value": ["Comms A"],
+      "trait_type": "Hair accessories"
+    }]
+  },
+  {
+    "category": "Legendary",
+    "id": "chunkyspikyhair",
+    "name": "Chunky Spiky Hair",
+    "poster": 7173,
+    "story": "",
+    "meta_type": 0,
+    "traits": [{
+      "value": ["Chunky Spiky Hair"],
+      "trait_type": "Hair"
+    }]
+  },
+  {
+    "category": "Legendary",
+    "id": "raysthin",
+    "name": "Rays Thin",
+    "poster": 7881,
+    "story": "",
+    "meta_type": 0,
+    "traits": [{
+      "value": ["Rays Thin"],
+      "trait_type": "Background"
+    }]
+  },
+  {
+    "category": "Legendary",
+    "id": "partialmask",
+    "name": "Partial Mask",
+    "poster": 2450,
+    "story": "",
+    "meta_type": 0,
+    "traits": [{
+      "value": ["Partial Mask"],
+      "trait_type": "Tattoos"
+    }]
+  },
+  {
+    "category": "Legendary",
+    "id": "animeeyes",
+    "name": "Anime Eyes",
+    "poster": 2621,
+    "story": "",
+    "meta_type": 0,
+    "traits": [{
+      "value": ["Anime Eyes"],
+      "trait_type": "Eyes"
+    }]
+  },
+  {
+    "category": "Legendary",
+    "id": "sketchynosemouth",
+    "name": "Sketchy Nose-Mouth",
+    "poster": 4730,
+    "story": "",
+    "meta_type": 0,
+    "traits": [{
+      "value": ["Sketchy Nose-Mouth"],
+      "trait_type": "Nose & Mouth"
+    }]
+  },
+  {
+    "category": "Legendary",
+    "id": "focusedeyes",
+    "name": "Focused Eyes",
+    "poster": 7371,
+    "story": "",
+    "meta_type": 0,
+    "traits": [{
+      "value": ["Focused Eyes"],
+      "trait_type": "Eyes"
+    }]
+  },
+  {
+    "category": "Legendary",
+    "id": "aloofeyes",
+    "name": "Aloof Eyes",
+    "poster": 1126,
+    "story": "",
+    "meta_type": 0,
+    "traits": [{
+      "value": ["Aloof Eyes"],
+      "trait_type": "Eyes"
+    }]
+  },
+  {
+    "category": "Legendary",
+    "id": "commsb",
+    "name": "Comms B",
+    "poster": 3858,
+    "story": "",
+    "meta_type": 0,
+    "traits": [{
+      "value": ["Comms B"],
+      "trait_type": "Hair accessories"
+    }]
+  },
+  {
+    "category": "Legendary",
+    "id": "goggles",
+    "name": "Goggles",
+    "poster": 829,
+    "story": "",
+    "meta_type": 0,
+    "traits": [{
+      "value": ["Goggles"],
+      "trait_type": "Hair accessories"
+    }]
+  },
+  {
+    "category": "Legendary",
+    "id": "starhair",
+    "name": "Star",
+    "poster": 1389,
+    "story": "",
+    "meta_type": 0,
+    "traits": [{
+      "value": ["Star"],
+      "trait_type": "Hair"
+    }]
+  },
+  {
+    "category": "Legendary",
+    "id": "cyborgeyes",
+    "name": "Cyborg Eyes",
+    "poster": 334,
+    "story": "",
+    "meta_type": 0,
+    "traits": [{
+      "value": ["Cyborg Eyes"],
+      "trait_type": "Eyes"
+    }]
+  },
+  {
+    "category": "Unique",
+    "id": "cleanbean",
+    "name": "Clean Bean",
+    "poster": 2366,
+    "story": "",
+    "traits": [{
+        "value": ["Bald"],
+        "trait_type": "Hair"
+      },
+      {
+        "value": "none",
+        "trait_type": "Tattoos"
+      },
+      {
+        "value": "none",
+        "trait_type": "Props"
+      },
+      {
+        "value": "none",
+        "trait_type": "Hair accessories"
+      },
+      {
+        "value": "none",
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Unique",
+    "id": "saint",
+    "name": "Saint",
+    "poster": 35,
+    "story": "",
+    "traits": [{
+        "value": ["Angel Wings"],
+        "trait_type": "Swords & Wings"
+      },
+      {
+        "value": ["Polo Shirt", "Open Collar Shirt"],
+        "trait_type": "Clothes"
+      }
+    ],
+    "colors": {
+      "clothes": ["white"]
+    }
+  },
+  {
+    "category": "Unique",
+    "id": "fallen",
+    "name": "Fallen",
+    "poster": 4496,
+    "story": "",
+    "traits": [{
+        "value": ["Cape"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Devil Wings"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Unique",
+    "id": "chad",
+    "name": "Chad",
+    "poster": 3576,
+    "story": "",
+    "traits": [{
+        "value": ["Cape"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Stunner Shades"],
+        "trait_type": "Props"
+      }
+    ]
+  },
+  {
+    "category": "Unique",
+    "id": "fullcyborg",
+    "name": "Full-Cyborg",
+    "poster": 4333,
+    "story": "",
+    "traits": [{
+        "value": ["Cyborg Eyes"],
+        "trait_type": "Eyes"
+      },
+      {
+        "value": ["Battle Armor"],
+        "trait_type": "Clothes"
+      }
+    ]
+  },
+  {
+    "category": "Unique",
+    "id": "berserker",
+    "name": "Berserker",
+    "poster": 2454,
+    "story": "",
+    "traits": [{
+        "value": ["Giant Sword"],
+        "trait_type": "Swords & Wings"
+      },
+      {
+        "value": ["Battle Armor"],
+        "trait_type": "Clothes"
+      }
+    ]
+  },
+  {
+    "category": "Unique",
+    "id": "battleangel",
+    "name": "Battle Angel",
+    "poster": 7053,
+    "story": "",
+    "traits": [{
+        "value": ["Angel Wings"],
+        "trait_type": "Swords & Wings"
+      },
+      {
+        "value": ["Battle Armor"],
+        "trait_type": "Clothes"
+      }
+    ]
+  },
+  {
+    "category": "Unique",
+    "id": "neko",
+    "name": "Neko",
+    "poster": 4513,
+    "story": "",
+    "traits": [{
+        "value": ["Cat Ears"],
+        "trait_type": "Hair accessories"
+      },
+      {
+        "value": ["Whiskers"],
+        "trait_type": "Tattoos"
+      }
+    ]
+  },
+  {
+    "category": "Unique",
+    "id": "sniper",
+    "name": "Sniper",
+    "poster": 8007,
+    "story": "",
+    "traits": [{
+        "value": ["Scanner"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["M-16"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Unique",
+    "id": "master sniper",
+    "name": "Master Sniper",
+    "poster": 1663,
+    "story": "",
+    "traits": [{
+        "value": ["Eye Mask"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["M-16"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Unique",
+    "id": "anbu",
+    "name": "True ANBU",
+    "poster": 3072,
+    "story": "",
+    "traits": [{
+        "value": ["Kitsune Mask"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Double Katana"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Unique",
+    "id": "silverbuzz",
+    "name": "Silver Buzz",
+    "poster": 2939,
+    "story": "",
+    "traits": [{
+      "value": ["Jagged Bob"],
+      "trait_type": "Hair"
+    }],
+    "colors": {
+      "hair": ["silver"]
+    }
+  },
+  {
+    "category": "Unique",
+    "id": "cosmicpilot",
+    "name": "Cosmic Pilot",
+    "poster": 3610,
+    "story": "",
+    "traits": [{
+        "value": ["Space Suit B"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Comms B"],
+        "trait_type": "Hair accessories"
+      }
+    ]
+  },
+  {
+    "category": "Unique",
+    "id": "hybrid cosmicpilot",
+    "name": "Hybrid Cosmic Pilot",
+    "poster": 734,
+    "story": "",
+    "traits": [{
+        "value": ["Space Suit B"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Comms A"],
+        "trait_type": "Hair accessories"
+      }
+    ]
+  },
+  {
+    "category": "Unique",
+    "id": "astralpilot",
+    "name": "Astral Pilot",
+    "poster": 2504,
+    "story": "",
+    "traits": [{
+        "value": ["Space Suit A"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Comms A"],
+        "trait_type": "Hair accessories"
+      }
+    ]
+  },
+  {
+    "category": "Unique",
+    "id": "hybridastralpilot",
+    "name": "Hybrid Astral Pilot",
+    "poster": 5079,
+    "story": "",
+    "traits": [{
+        "value": ["Space Suit A"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Comms B"],
+        "trait_type": "Hair accessories"
+      }
+    ]
+  },
+  {
+    "category": "Junks",
+    "id": "yugi",
+    "name": "Yugi",
+    "poster": 717,
+    "story": "",
+    "traits": [{
+        "value": ["Androgynous Jacket"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Star"],
+        "trait_type": "Hair"
+      }
+    ]
+  },
+  {
+    "category": "Junks",
+    "id": "ichigo",
+    "name": "Ichigo",
+    "poster": 2736,
+    "story": "",
+    "traits": [{
+        "value": ["Kimono"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Long Spiky Hair"],
+        "trait_type": "Hair"
+      }
+    ],
+    "colors": {
+      "hair": ["orange"]
+    }
+  },
+  {
+    "category": "Junks",
+    "id": "erenyager",
+    "name": "Eren Yager",
+    "poster": 438,
+    "story": "",
+    "traits": [{
+        "value": ["Field Jacket"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Short"],
+        "trait_type": "Hair"
+      }
+    ],
+    "colors": {
+      "hair": ["brown"]
+    }
+  },
+  {
+    "category": "Junks",
+    "id": "guts",
+    "name": "Guts",
+    "poster": 6135,
+    "story": "",
+    "traits": [{
+        "value": ["Fantasy Battle Gear"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Short Spiky Hair"],
+        "trait_type": "Hair"
+      }
+    ]
+  },
+  {
+    "category": "Junks",
+    "id": "mugen",
+    "name": "Mugen",
+    "poster": 1493,
+    "story": "",
+    "traits": [{
+        "value": ["Noragi"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Spiky Afro"],
+        "trait_type": "Hair"
+      }
+    ]
+  },
+  {
+    "category": "Junks",
+    "id": "kirito",
+    "name": "Kirito",
+    "poster": 6359,
+    "story": "",
+    "traits": [{
+        "value": ["Banded Collar Jacket"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Streaky"],
+        "trait_type": "Hair"
+      }
+    ]
+  },
+  {
+    "category": "Junks",
+    "id": "shoyo",
+    "name": "Shoyo Hinata",
+    "poster": 6244,
+    "story": "",
+    "traits": [{
+        "value": ["Sports Jersey"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Mid Shaggy"],
+        "trait_type": "Hair"
+      }
+    ],
+    "colors": {
+      "hair": ["orange"]
+    }
+  },
+  {
+    "category": "Junks",
+    "id": "sailor_moon",
+    "name": "Sailor Moon",
+    "poster": 1590,
+    "story": "",
+    "traits": [{
+        "value": ["School Girl Uniform A"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Pigtails"],
+        "trait_type": "Hair"
+      }
+    ]
+  },
+  {
+    "category": "Junks",
+    "id": "motoku_kusanagi",
+    "name": "Motoku Kusanagi",
+    "poster": 5183,
+    "story": "",
+    "traits": [{
+        "value": ["Sci-Fi Jacket"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Choppy"],
+        "trait_type": "Hair"
+      }
+    ]
+  },
+  {
+    "category": "Junks",
+    "id": "edward_elric",
+    "name": "Edward Elric",
+    "poster": 4787,
+    "story": "",
+    "traits": [{
+        "value": ["Cape"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Pony Tail"],
+        "trait_type": "Hair"
+      }
+    ],
+    "whitelist": [8990]
+  },
+  {
+    "category": "Junks",
+    "id": "saitama",
+    "name": "Saitama",
+    "poster": 1783,
+    "story": "",
+    "traits": [{
+        "value": ["Superhero", "Henley Shirt"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Bald"],
+        "trait_type": "Hair"
+      }
+    ]
+  },
+  {
+    "category": "Junks",
+    "id": "narutouzumaki",
+    "name": "Naruto Uzumaki",
+    "poster": 1708,
+    "story": "",
+    "traits": [{
+        "value": ["Turtleneck Sweater"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Spiky Top"],
+        "trait_type": "Hair"
+      }
+    ]
+  }, {
+    "category": "Junks",
+    "id": "sakuraharuno",
+    "name": "Sakura Haruno",
+    "poster": 7800,
+    "story": "",
+    "traits": [{
+        "value": ["Qipao"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Mid Middle Part"],
+        "trait_type": "Hair"
+      }
+    ]
+  },
+  {
+    "category": "Celeb Look-A-Like",
+    "id": "chesterbennington",
+    "name": "Chester Bennington",
+    "poster": "images/posters/chesterbennington.png",
+    "story": "",
+    "whitelist": [6381]
+  },
+  {
+    "category": "Celeb Look-A-Like",
+    "id": "michelleyeoh",
+    "name": "Michelle Yeoh",
+    "poster": "images/posters/michelleyeoh.png",
+    "story": "",
+    "whitelist": [7587]
+  },
+  {
+    "category": "Celeb Look-A-Like",
+    "id": "madsmikkelson",
+    "name": "Mads Mikkelson",
+    "poster": "images/posters/madsmikkelson.png",
+    "story": "",
+    "whitelist": [3991, 3920]
+  },
+  {
+    "category": "Celeb Look-A-Like",
+    "id": "anyataylorjoy",
+    "name": "Anya Taylor-Joy",
+    "poster": "images/posters/anyataylorjoy.png",
+    "story": "",
+    "whitelist": [1082]
+  },
+  {
+    "category": "Celeb Look-A-Like",
+    "id": "margotrobbie",
+    "name": "Margot Robbie",
+    "poster": "images/posters/margotrobbie.png",
+    "story": "",
+    "whitelist": [7874]
+  },
+  {
+    "category": "Celeb Look-A-Like",
+    "id": "adamdriver",
+    "name": "Adam Driver",
+    "poster": "images/posters/adamdriver.png",
+    "story": "",
+    "whitelist": [3941]
+  },
+  {
+    "category": "Celeb Look-A-Like",
+    "id": "merylstreep",
+    "name": "Meryl Streep",
+    "poster": "images/posters/merylstreep.png",
+    "story": "",
+    "whitelist": [4629]
+  },
+  {
+    "category": "Celeb Look-A-Like",
+    "id": "edsheeran",
+    "name": "Ed Sheeran",
+    "poster": "images/posters/edsheeran.png",
+    "story": "",
+    "whitelist": [14]
+  },
+  {
+    "category": "Celeb Look-A-Like",
+    "id": "brunomars",
+    "name": "Bruno Mars",
+    "poster": "images/posters/brunomars.png",
+    "story": "",
+    "whitelist": [741]
+  },
+  {
+    "category": "Celeb Look-A-Like",
+    "id": "michaeljackson",
+    "name": "Michael Jackson",
+    "poster": "images/posters/michaeljackson.png",
+    "story": "",
+    "traits": [{
+        "value": ["Leather Jacket", "Cape", "Banded Collar Jacket", "Marching Band Jacket"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Hat Hair"],
+        "trait_type": "Hair"
+      }
+    ]
+  }
 ]
