@@ -484,6 +484,23 @@
   },
   {
     "category": "Unique",
+    "id": "concealer",
+    "name": "Assassin (Hidden Weapon)",
+    "poster": 482,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Long Full"],
+        "trait_type": "Hair"
+      },
+      {
+        "value": ["Small Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Unique",
     "id": "birdking",
     "name": "Bird King",
     "poster": 8229,
