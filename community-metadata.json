@@ -82,8 +82,8 @@
   },
   {
     "category": "Specs",
-    "id": "clean",
-    "name": "Clean",
+    "id": "pure",
+    "name": "Pure",
     "poster": 4852,
     "story": "",
     "meta_type": 0,
