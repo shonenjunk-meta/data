@@ -1,6 +1,23 @@
 [
   {
     "category": "Armed",
+    "id": "militia",
+    "name": "Militia",
+    "poster": 5487,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Polo Shirt", "Open Collar Shirt", "Turtleneck Sweater", "Sweatshirt", "Green Shirt", "Blue Sweater", "Mock Neck Sweater", "Purple Polo Shirt"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Space Sword", "Tassel Sword", "Giant Sword", "Double Katana", "Small Staff", "Staff", "M-16", "Magic Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Armed",
     "id": "noobie",
     "name": "Noobie",
     "poster": 7843,
