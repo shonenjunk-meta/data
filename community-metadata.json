@@ -181,7 +181,7 @@
     "category": "Color Match",
     "id": "doublematch",
     "name": "Double Match",
-    "poster": 5698,
+    "poster": 8306,
     "story": "",
     "meta_type": 0,
     "colors": {
@@ -434,6 +434,107 @@
   },
   {
     "category": "Unique",
+    "id": "neko",
+    "name": "Neko",
+    "poster": 4513,
+    "story": "",
+    "traits": [{
+        "value": ["Cat Ears"],
+        "trait_type": "Hair accessories"
+      },
+      {
+        "value": ["Whiskers"],
+        "trait_type": "Tattoos"
+      }
+    ]
+  },
+  {
+    "category": "Unique",
+    "id": "baddiegattie",
+    "name": "Baddie w/ a Gattie",
+    "poster": 2669,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Long", "Long Shaggy", "Long Full", "Bangs", "Bun", "Streak Highlight", "Mid Middle Part", "Pony Tail", "Long Wavy", "Pigtails", "Choppy"],
+        "trait_type": "Hair"
+      },
+      {
+        "value": ["M-16"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Unique",
+    "id": "waifuknifu",
+    "name": "Waifu w/ a Knifu",
+    "poster": 2964,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Long", "Long Shaggy", "Long Full", "Bangs", "Bun", "Streak Highlight", "Mid Middle Part", "Pony Tail", "Long Wavy", "Pigtails", "Choppy"],
+        "trait_type": "Hair"
+      },
+      {
+        "value": ["Space Sword", "Giant Sword", "Tassel Sword", "Double Katana"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Unique",
+    "id": "birdking",
+    "name": "Bird King",
+    "poster": 8229,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Bird Headpiece"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Unique",
+    "id": "samurai",
+    "name": "Samurai",
+    "poster": 5617,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Noragi"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Small Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Unique",
+    "id": "psiops",
+    "name": "PSI-Ops",
+    "poster": 2660,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Sci-Fi Jacket"],
+        "trait_type": "Clothes"
+      },
+      {
+        "value": ["Space Sword"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Unique",
     "id": "cleanbean",
     "name": "Clean Bean",
     "poster": 2366,
@@ -499,7 +600,7 @@
     "category": "Unique",
     "id": "chad",
     "name": "Chad",
-    "poster": 3576,
+    "poster": 7386,
     "story": "",
     "traits": [{
         "value": ["Cape"],
@@ -561,44 +662,28 @@
   },
   {
     "category": "Unique",
-    "id": "neko",
-    "name": "Neko",
-    "poster": 4513,
+    "id": "warrior",
+    "name": "Warrior",
+    "poster": 7527,
     "story": "",
     "traits": [{
-        "value": ["Cat Ears"],
-        "trait_type": "Hair accessories"
+        "value": ["Fantasy Battle Gear"],
+        "trait_type": "Clothes"
       },
       {
-        "value": ["Whiskers"],
-        "trait_type": "Tattoos"
-      }
-    ]
-  },
-  {
-    "category": "Unique",
-    "id": "sniper",
-    "name": "Sniper",
-    "poster": 8007,
-    "story": "",
-    "traits": [{
-        "value": ["Scanner"],
-        "trait_type": "Props"
-      },
-      {
-        "value": ["M-16"],
+        "value": ["Giant Sword"],
         "trait_type": "Swords & Wings"
       }
     ]
   },
   {
     "category": "Unique",
-    "id": "master sniper",
-    "name": "Master Sniper",
-    "poster": 1663,
+    "id": "assaulter",
+    "name": "Assaulter",
+    "poster": 8444,
     "story": "",
     "traits": [{
-        "value": ["Eye Mask"],
+        "value": ["Scanner"],
         "trait_type": "Props"
       },
       {
@@ -655,22 +740,6 @@
   },
   {
     "category": "Unique",
-    "id": "hybrid cosmicpilot",
-    "name": "Hybrid Cosmic Pilot",
-    "poster": 734,
-    "story": "",
-    "traits": [{
-        "value": ["Space Suit B"],
-        "trait_type": "Clothes"
-      },
-      {
-        "value": ["Comms A"],
-        "trait_type": "Hair accessories"
-      }
-    ]
-  },
-  {
-    "category": "Unique",
     "id": "astralpilot",
     "name": "Astral Pilot",
     "poster": 2504,
@@ -681,22 +750,6 @@
       },
       {
         "value": ["Comms A"],
-        "trait_type": "Hair accessories"
-      }
-    ]
-  },
-  {
-    "category": "Unique",
-    "id": "hybridastralpilot",
-    "name": "Hybrid Astral Pilot",
-    "poster": 5079,
-    "story": "",
-    "traits": [{
-        "value": ["Space Suit A"],
-        "trait_type": "Clothes"
-      },
-      {
-        "value": ["Comms B"],
         "trait_type": "Hair accessories"
       }
     ]
