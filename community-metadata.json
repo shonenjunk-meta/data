@@ -4,7 +4,7 @@
     "id": "sixtrait",
     "name": "6-Trait",
     "poster": 694,
-    "story": "",
+    "story": "This NFT has 6 traits",
     "meta_type": 0,
     "trait_count": 6
   },
@@ -13,7 +13,7 @@
     "id": "seventrait",
     "name": "7-Trait",
     "poster": 2283,
-    "story": "",
+    "story": "This NFT has 7 traits",
     "meta_type": 0,
     "trait_count": 7
   },
@@ -22,7 +22,7 @@
     "id": "eighttrait",
     "name": "8-Trait",
     "poster": 4896,
-    "story": "",
+    "story": "This NFT has 8 traits",
     "meta_type": 0,
     "trait_count": 8
   },
@@ -31,7 +31,7 @@
     "id": "ninetraint",
     "name": "9-Trait",
     "poster": 7527,
-    "story": "",
+    "story": "This NFT has 9 traits",
     "meta_type": 0,
     "trait_count": 9
   },
@@ -40,7 +40,7 @@
     "id": "tentrait",
     "name": "10-Trait",
     "poster": 8734,
-    "story": "",
+    "story": "This NFT has 10 traits",
     "meta_type": 0,
     "trait_count": 10
   },
@@ -49,7 +49,7 @@
     "id": "unarmed",
     "name": "Unarmed",
     "poster": 3859,
-    "story": "",
+    "story": "This NFT has no weapon or wing",
     "meta_type": 0,
     "traits": [{
       "value": "none",
@@ -61,7 +61,7 @@
     "id": "armed",
     "name": "Armed",
     "poster": 999,
-    "story": "",
+    "story": "This NFT has a weapon",
     "meta_type": 0,
     "traits": [{
       "value": ["Space Sword", "Tassel Sword", "Giant Sword", "Double Katana", "Small Staff", "Staff", "M-16", "Magic Staff"],
@@ -73,7 +73,7 @@
     "id": "winged",
     "name": "Winged",
     "poster": 8117,
-    "story": "",
+    "story": "This NFT has a wing",
     "meta_type": 0,
     "traits": [{
       "value": ["Angel Wings", "Devil Wings"],
@@ -85,7 +85,7 @@
     "id": "pure",
     "name": "Pure",
     "poster": 4852,
-    "story": "",
+    "story": "This NFT has no tattoo",
     "meta_type": 0,
     "traits": [{
       "value": "none",
@@ -97,7 +97,7 @@
     "id": "scarred",
     "name": "Scarred",
     "poster": 4693,
-    "story": "",
+    "story": "This NFT has a tattoo",
     "meta_type": 0,
     "traits": [{
       "value": ["Cut", "Scar", "Triple Cut", "Whiskers", "Partial Mask"],
@@ -109,7 +109,7 @@
     "id": "simple",
     "name": "Simple",
     "poster": 109,
-    "story": "",
+    "story": "This NFT has no hair accessory",
     "meta_type": 0,
     "traits": [{
       "value": "none",
@@ -121,7 +121,7 @@
     "id": "fancy",
     "name": "Fancy",
     "poster": 374,
-    "story": "",
+    "story": "This NFT has a hair accessory",
     "meta_type": 0,
     "traits": [{
       "value": ["Cat Ears", "Hair Bun", "Goggles", "Comms B", "Comms A", "Straw Hat"],
@@ -133,7 +133,7 @@
     "id": "exposed",
     "name": "Exposed",
     "poster": 8476,
-    "story": "",
+    "story": "This NFT has no prop",
     "meta_type": 0,
     "traits": [{
       "value": "none",
@@ -145,7 +145,7 @@
     "id": "concealed",
     "name": "Concealed",
     "poster": 1610,
-    "story": "",
+    "story": "This NFT has a prop",
     "meta_type": 0,
     "traits": [{
       "value": ["Glasses", "Earrings", "Kitsune Mask", "Eye Mask", "Headband", "Eye Patch", "Stunner Shades", "Bird Headpiece", "Medical Eye Mask", "Scanner", "Bird Helmet", "Force Aura", "Mecha Helmet", "Sentai Helmet", "Bamboo"],
@@ -157,7 +157,7 @@
     "id": "fourwaymatch",
     "name": "4-Way Match",
     "poster": 5536,
-    "story": "",
+    "story": "This NFT has color matching eyes, hair, clothes, backdrop",
     "meta_type": 0,
     "colors": {
       "max_match": 4
@@ -170,7 +170,7 @@
     "id": "triplematch",
     "name": "Triple Match",
     "poster": 7476,
-    "story": "",
+    "story": "This NFT has 3 color match out of eyes, hair, clothes, and backdrop",
     "meta_type": 0,
     "colors": {
       "max_match": 3
@@ -182,7 +182,7 @@
     "id": "doublematch",
     "name": "Double Match",
     "poster": 8306,
-    "story": "",
+    "story": "This NFT has 2 color match out of eyes, hair, clothes, and backdrop",
     "meta_type": 0,
     "colors": {
       "max_match": 2,
@@ -193,9 +193,9 @@
   {
     "category": "Color Match",
     "id": "doubledoublematch",
-    "name": "Double2x Match",
+    "name": "Twin Double Match",
     "poster": 529,
-    "story": "",
+    "story": "This NFT has 2x2 color match out of eyes, hair, clothes, and backdrop",
     "meta_type": 0,
     "colors": {
       "max_match": 2,
@@ -208,7 +208,7 @@
     "id": "fourseasons",
     "name": "Four Seasons",
     "poster": 1040,
-    "story": "",
+    "story": "This NFT has unique individual colors for eyes, hair, clothes, and backdrop",
     "meta_type": 0,
     "colors": {
       "max_match": 1,
@@ -221,7 +221,7 @@
     "id": "sentai",
     "name": "Sentai",
     "poster": 5498,
-    "story": "",
+    "story": "This NFT is a wearing a Sentai Helmet",
     "meta_type": 0,
     "traits": [{
       "value": ["Sentai Helmet"],
@@ -233,7 +233,7 @@
     "id": "mecha",
     "name": "Mech Pilot",
     "poster": 321,
-    "story": "",
+    "story": "This NFT is a wearing a Mecha Helmet",
     "meta_type": 0,
     "traits": [{
       "value": ["Mecha Helmet"],
@@ -245,7 +245,7 @@
     "id": "forceaura",
     "name": "Charged",
     "poster": 548,
-    "story": "",
+    "story": "This NFT is a wearing a Force Aura",
     "meta_type": 0,
     "traits": [{
       "value": ["Force Aura"],
@@ -257,7 +257,7 @@
     "id": "birdhelmet",
     "name": "Ninja Pilot",
     "poster": 5150,
-    "story": "",
+    "story": "This NFT is a wearing a Bird Helmet",
     "meta_type": 0,
     "traits": [{
       "value": ["Bird Helmet"],
@@ -269,7 +269,7 @@
     "id": "strawhat",
     "name": "Straw Hat",
     "poster": 3512,
-    "story": "",
+    "story": "This NFT is a wearing a Straw Hat",
     "meta_type": 0,
     "traits": [{
       "value": ["Straw Hat"],
@@ -281,7 +281,7 @@
     "id": "raysbold",
     "name": "Fired Up",
     "poster": 4107,
-    "story": "",
+    "story": "This NFT is a wearing a Rays Bold backdrop",
     "meta_type": 0,
     "traits": [{
       "value": ["Rays Bold"],
@@ -293,7 +293,7 @@
     "id": "commsa",
     "name": "Linked",
     "poster": 3192,
-    "story": "",
+    "story": "This NFT is a wearing a Comms A",
     "meta_type": 0,
     "traits": [{
       "value": ["Comms A"],
@@ -305,7 +305,7 @@
     "id": "chunkyspikyhair",
     "name": "Saiyan",
     "poster": 7173,
-    "story": "",
+    "story": "This NFT is a wearing a Chunky Spiky Hair",
     "meta_type": 0,
     "traits": [{
       "value": ["Chunky Spiky Hair"],
@@ -317,7 +317,7 @@
     "id": "raysthin",
     "name": "Passionate",
     "poster": 7881,
-    "story": "",
+    "story": "This NFT is a wearing a Rays Thin backdrop",
     "meta_type": 0,
     "traits": [{
       "value": ["Rays Thin"],
@@ -329,7 +329,7 @@
     "id": "partialmask",
     "name": "Reaper",
     "poster": 2450,
-    "story": "",
+    "story": "This NFT is a wearing a Partial Mask",
     "meta_type": 0,
     "traits": [{
       "value": ["Partial Mask"],
@@ -341,7 +341,7 @@
     "id": "animeeyes",
     "name": "Animated",
     "poster": 2621,
-    "story": "",
+    "story": "This NFT has Anime Eyes",
     "meta_type": 0,
     "traits": [{
       "value": ["Anime Eyes"],
@@ -353,7 +353,7 @@
     "id": "sketchynosemouth",
     "name": "Sketchy",
     "poster": 4730,
-    "story": "",
+    "story": "This NFT has Sketchy Nouse & Month",
     "meta_type": 0,
     "traits": [{
       "value": ["Sketchy Nose-Mouth"],
@@ -365,7 +365,7 @@
     "id": "focusedeyes",
     "name": "Focused",
     "poster": 7371,
-    "story": "",
+    "story": "This NFT has Focused Eyes",
     "meta_type": 0,
     "traits": [{
       "value": ["Focused Eyes"],
@@ -377,7 +377,7 @@
     "id": "aloofeyes",
     "name": "Aloof",
     "poster": 1126,
-    "story": "",
+    "story": "This NFT has Aloof Eyes",
     "meta_type": 0,
     "traits": [{
       "value": ["Aloof Eyes"],
@@ -389,7 +389,7 @@
     "id": "commsb",
     "name": "Wired",
     "poster": 3858,
-    "story": "",
+    "story": "This NFT is wearing a Comms B",
     "meta_type": 0,
     "traits": [{
       "value": ["Comms B"],
@@ -401,7 +401,7 @@
     "id": "goggles",
     "name": "Forger",
     "poster": 829,
-    "story": "",
+    "story": "This NFT is wearing Goggles",
     "meta_type": 0,
     "traits": [{
       "value": ["Goggles"],
@@ -413,7 +413,7 @@
     "id": "starhair",
     "name": "Star",
     "poster": 1389,
-    "story": "",
+    "story": "This NFT is wearing a Star Hair",
     "meta_type": 0,
     "traits": [{
       "value": ["Star"],
@@ -425,7 +425,7 @@
     "id": "cyborgeyes",
     "name": "Cyborg",
     "poster": 334,
-    "story": "",
+    "story": "This NFT has a Cyborg Eye",
     "meta_type": 0,
     "traits": [{
       "value": ["Cyborg Eyes"],
