@@ -450,8 +450,8 @@
   },
   {
     "category": "Unique",
-    "id": "baddiegattie",
-    "name": "Baddie w/ a Gattie",
+    "id": "baddiegaddie",
+    "name": "Baddie w/ the Gaddie",
     "poster": 2669,
     "story": "",
     "traits": [
@@ -478,6 +478,23 @@
       },
       {
         "value": ["Space Sword", "Giant Sword", "Tassel Sword", "Double Katana"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Unique",
+    "id": "chichstick",
+    "name": "Chic w/ a Stick",
+    "poster": 142,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Long", "Long Shaggy", "Long Full", "Bangs", "Bun", "Streak Highlight", "Mid Middle Part", "Pony Tail", "Long Wavy", "Pigtails", "Choppy"],
+        "trait_type": "Hair"
+      },
+      {
+        "value": ["Staff", "Short Staff", "Magic Staff"],
         "trait_type": "Swords & Wings"
       }
     ]
