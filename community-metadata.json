@@ -162,7 +162,6 @@
     "colors": {
       "max_match": 4
     },
-    "whitelist": [7452, 3601, 2473],
     "sort": "backdrop-color"
   },
   {
@@ -787,6 +786,78 @@
         "trait_type": "Hair accessories"
       }
     ]
+  },
+  {
+    "category": "Palletes",
+    "id": "midnightblack",
+    "name": "Midnight",
+    "poster": 4519,
+    "story": "",
+    "colors": {
+      "hair": ["black"],
+      "clothes": ["black"],
+      "backdrop": ["black"]
+    }
+  },
+  {
+    "category": "Palletes",
+    "id": "oceanblue",
+    "name": "Ocean",
+    "poster": 5360,
+    "story": "",
+    "colors": {
+      "hair": ["blue"],
+      "clothes": ["blue"],
+      "backdrop": ["blue"]
+    }
+  },
+  {
+    "category": "Palletes",
+    "id": "bloodred",
+    "name": "Blood",
+    "poster": 2841,
+    "story": "",
+    "colors": {
+      "hair": ["red"],
+      "clothes": ["red"],
+      "backdrop": ["red"]
+    }
+  },
+  {
+    "category": "Palletes",
+    "id": "purplerain",
+    "name": "Rain",
+    "poster": 8410,
+    "story": "",
+    "colors": {
+      "hair": ["purple"],
+      "clothes": ["purple"],
+      "backdrop": ["purple"]
+    }
+  },
+  {
+    "category": "Palletes",
+    "id": "greenforest",
+    "name": "Forest",
+    "poster": 5536,
+    "story": "",
+    "colors": {
+      "hair": ["green"],
+      "clothes": ["green"],
+      "backdrop": ["green"]
+    }
+  },
+  {
+    "category": "Palletes",
+    "id": "yellowsun",
+    "name": "Sun",
+    "poster": 5740,
+    "story": "",
+    "colors": {
+      "hair": ["orange"],
+      "clothes": ["yellow"],
+      "backdrop": ["orange"]
+    }
   },
   {
     "category": "Junks",
