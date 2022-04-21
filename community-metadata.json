@@ -727,22 +727,6 @@
   },
   {
     "category": "Unique",
-    "id": "anbu",
-    "name": "True ANBU",
-    "poster": 3072,
-    "story": "",
-    "traits": [{
-        "value": ["Kitsune Mask"],
-        "trait_type": "Props"
-      },
-      {
-        "value": ["Double Katana"],
-        "trait_type": "Swords & Wings"
-      }
-    ]
-  },
-  {
-    "category": "Unique",
     "id": "silverbuzz",
     "name": "Silver Buzz",
     "poster": 2939,
@@ -784,6 +768,566 @@
       {
         "value": ["Comms A"],
         "trait_type": "Hair accessories"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "genius",
+    "name": "Genius",
+    "poster": 6381,
+    "story": "",
+    "traits": [{
+        "value": ["Glasses"],
+        "trait_type": "Props"
+      },
+      {
+        "value": "none",
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "geniusswordmaster",
+    "name": "Genius Sword Master",
+    "poster": 3787,
+    "story": "",
+    "traits": [{
+        "value": ["Glasses"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Double Katana", "Space Sword", "Tassel Sword", "Giant Sword"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "geniusbomaster",
+    "name": "Genius Bo Master",
+    "poster": 6439,
+    "story": "",
+    "traits": [{
+        "value": ["Glasses"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Staff", "Small Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "geniussorcerer",
+    "name": "Genius Sorcerer",
+    "poster": 1815,
+    "story": "",
+    "traits": [{
+        "value": ["Glasses"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Magic Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "geniussnipermaster",
+    "name": "Genius Master Sniper",
+    "poster": 4798,
+    "story": "",
+    "traits": [{
+        "value": ["Glasses"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["M-16"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "geniusspirit",
+    "name": "Genius Spirit",
+    "poster": 565,
+    "story": "",
+    "traits": [{
+        "value": ["Glasses"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Angel Wings"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "evilgenius",
+    "name": "Evil Genius",
+    "poster": 7327,
+    "story": "",
+    "traits": [{
+        "value": ["Glasses"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Devil Wings"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "anbu",
+    "name": "ANBU",
+    "poster": 4168,
+    "story": "",
+    "traits": [{
+        "value": ["Kitsune Mask"],
+        "trait_type": "Props"
+      },
+      {
+        "value": "none",
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "anbuswordmaster",
+    "name": "ANBU Sword Master",
+    "poster": 3072,
+    "story": "",
+    "traits": [{
+        "value": ["Kitsune Mask"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Double Katana", "Space Sword", "Tassel Sword", "Giant Sword"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "anbubomaster",
+    "name": "ANBU Bo Master",
+    "poster": 7542,
+    "story": "",
+    "traits": [{
+        "value": ["Kitsune Mask"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Staff", "Small Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "anbusorcerer",
+    "name": "ANBU Sorcerer",
+    "poster": 1325,
+    "story": "",
+    "traits": [{
+        "value": ["Kitsune Mask"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Magic Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "anbusnipermaster",
+    "name": "ANBU Master Sniper",
+    "poster": 1444,
+    "story": "",
+    "traits": [{
+        "value": ["Kitsune Mask"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["M-16"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "anbuspirit",
+    "name": "ANBU Spirit",
+    "poster": 7384,
+    "story": "",
+    "traits": [{
+        "value": ["Kitsune Mask"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Angel Wings", "Devil Wings"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "sealed",
+    "name": "Sealed",
+    "poster": 6033,
+    "story": "",
+    "traits": [{
+        "value": ["Eye Mask"],
+        "trait_type": "Props"
+      },
+      {
+        "value": "none",
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "sealedsorcerer",
+    "name": "Sealed Sorcerer",
+    "poster": 4193,
+    "story": "",
+    "traits": [{
+        "value": ["Eye Mask"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Magic Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "sealedswordmaster",
+    "name": "Sealed Sword Master",
+    "poster": 8349,
+    "story": "",
+    "traits": [{
+        "value": ["Eye Mask"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Double Katana", "Space Sword", "Tassel Sword", "Giant Sword"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "sealedbomaster",
+    "name": "Sealed Bo Master",
+    "poster": 5823,
+    "story": "",
+    "traits": [{
+        "value": ["Eye Mask"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Staff", "Small Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "sealedsnipermaster",
+    "name": "Sealed Master Sniper",
+    "poster": 1663,
+    "story": "",
+    "traits": [{
+        "value": ["Eye Mask"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["M-16"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "sealedspirit",
+    "name": "Sealed Spirit",
+    "poster": 7972,
+    "story": "",
+    "traits": [{
+        "value": ["Eye Mask"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Angel Wings", "Devil Wings"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "shinobi",
+    "name": "Shinobi",
+    "poster": 6531,
+    "story": "",
+    "traits": [{
+        "value": ["Headband"],
+        "trait_type": "Props"
+      },
+      {
+        "value": "none",
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "theshinobi",
+    "name": "The Shinobi",
+    "poster": 2595,
+    "story": "",
+    "traits": [{
+        "value": ["Headband"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Double Katana"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "shinobiswordsman",
+    "name": "Shinobi Sword Master",
+    "poster": 7756,
+    "story": "",
+    "traits": [{
+        "value": ["Headband"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Space Sword", "Tassel Sword", "Giant Sword"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "shinobibomaster",
+    "name": "Shinobi Bo Master",
+    "poster": 4340,
+    "story": "",
+    "traits": [{
+        "value": ["Headband"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Staff", "Small Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "shinobispirit",
+    "name": "Shinobi Spirit",
+    "poster": 2100,
+    "story": "",
+    "traits": [{
+        "value": ["Headband"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Angel Wings", "Devil Wings"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "pirate",
+    "name": "Pirate",
+    "poster": 596,
+    "story": "",
+    "traits": [{
+        "value": ["Eye Patch"],
+        "trait_type": "Props"
+      },
+      {
+        "value": "none",
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "pirateswordsman",
+    "name": "Pirate Sword Master",
+    "poster": 3333,
+    "story": "",
+    "traits": [{
+        "value": ["Eye Patch"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Space Sword", "Tassel Sword", "Giant Sword"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "piratebomaster",
+    "name": "Pirate Bo Master",
+    "poster": 784,
+    "story": "",
+    "traits": [{
+        "value": ["Eye Patch"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Staff", "Small Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "piratemastersniper",
+    "name": "Pirate Master Sniper",
+    "poster": 7539,
+    "story": "",
+    "traits": [{
+        "value": ["Eye Patch"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["M-16"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "piratespirit",
+    "name": "Pirate Spirit",
+    "poster": 5350,
+    "story": "",
+    "traits": [{
+        "value": ["Eye Patch"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Angel Wings", "Devil Wings"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "stunner",
+    "name": "Stunner",
+    "poster": 3239,
+    "story": "",
+    "traits": [{
+        "value": ["Stunner Shades"],
+        "trait_type": "Props"
+      },
+      {
+        "value": "none",
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "stunnerswordsman",
+    "name": "Stunner Sword Master",
+    "poster": 1985,
+    "story": "",
+    "traits": [{
+        "value": ["Stunner Shades"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Space Sword", "Tassel Sword", "Giant Sword"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "stunnerbomaster",
+    "name": "Stone Cold Stunner",
+    "poster": 3380,
+    "story": "",
+    "traits": [{
+        "value": ["Stunner Shades"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Staff", "Small Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "stunnermastersniper",
+    "name": "Stunner Master Sniper",
+    "poster": 5106,
+    "story": "",
+    "traits": [{
+        "value": ["Stunner Shades"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["M-16"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "stunnersorcerer",
+    "name": "Stunner Sorcerer",
+    "poster": 6211,
+    "story": "",
+    "traits": [{
+        "value": ["Stunner Shades"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Magic Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "stunnerspirit",
+    "name": "Stunner Spirit",
+    "poster": 34,
+    "story": "",
+    "traits": [{
+        "value": ["Stunner Shades"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Angel Wings", "Devil Wings"],
+        "trait_type": "Swords & Wings"
       }
     ]
   },
