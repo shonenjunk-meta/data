@@ -1332,7 +1332,7 @@
     ]
   },
   {
-    "category": "Palletes",
+    "category": "Palettes",
     "id": "midnightblack",
     "name": "Midnight",
     "poster": 4519,
@@ -1344,7 +1344,7 @@
     }
   },
   {
-    "category": "Palletes",
+    "category": "Palettes",
     "id": "oceanblue",
     "name": "Ocean",
     "poster": 5360,
@@ -1356,7 +1356,7 @@
     }
   },
   {
-    "category": "Palletes",
+    "category": "Palettes",
     "id": "bloodred",
     "name": "Blood",
     "poster": 2841,
@@ -1368,7 +1368,7 @@
     }
   },
   {
-    "category": "Palletes",
+    "category": "Palettes",
     "id": "purplerain",
     "name": "Rain",
     "poster": 8410,
@@ -1380,7 +1380,7 @@
     }
   },
   {
-    "category": "Palletes",
+    "category": "Palettes",
     "id": "greenforest",
     "name": "Forest",
     "poster": 5536,
@@ -1392,7 +1392,7 @@
     }
   },
   {
-    "category": "Palletes",
+    "category": "Palettes",
     "id": "yellowsun",
     "name": "Sun",
     "poster": 5740,
