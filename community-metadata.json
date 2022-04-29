@@ -449,6 +449,22 @@
   },
   {
     "category": "Unique",
+    "id": "nekoangel",
+    "name": "Neko Angel",
+    "poster": 4205,
+    "story": "",
+    "traits": [{
+        "value": ["Cat Ears"],
+        "trait_type": "Hair accessories"
+      },
+      {
+        "value": ["Angel Wings"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Unique",
     "id": "baddiegaddie",
     "name": "Baddie w/ the Gaddie",
     "poster": 2669,
