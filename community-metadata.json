@@ -746,7 +746,7 @@
     "id": "silverbuzz",
     "name": "Silver Buzz",
     "poster": 2939,
-    "story": "",
+    "story": "Hidden silver Jagged Bob hair",
     "traits": [{
       "value": ["Jagged Bob"],
       "trait_type": "Hair"
@@ -760,7 +760,7 @@
     "id": "cosmicpilot",
     "name": "Cosmic Pilot",
     "poster": 3610,
-    "story": "",
+    "story": "White Comms w/ matching Space Suit",
     "traits": [{
         "value": ["Space Suit B"],
         "trait_type": "Clothes"
@@ -776,7 +776,7 @@
     "id": "astralpilot",
     "name": "Astral Pilot",
     "poster": 2504,
-    "story": "",
+    "story": "Red Comms w/ matching Space Suit",
     "traits": [{
         "value": ["Space Suit A"],
         "trait_type": "Clothes"
@@ -784,6 +784,22 @@
       {
         "value": ["Comms A"],
         "trait_type": "Hair accessories"
+      }
+    ]
+  },
+  {
+    "category": "Unique",
+    "id": "hiddengem",
+    "name": "Hidden Gem",
+    "poster": 6887,
+    "story": "Legendary eyes hidden in props",
+    "traits": [{
+        "value": ["Kitsune Mask", "Eye Mask", "Stunner Shades"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Anime Eyes", "Focused Eyes", "Aloof Eyes", "Cyborg Eyes"],
+        "trait_type": "Eyes"
       }
     ]
   },
@@ -854,7 +870,7 @@
   {
     "category": "Faction",
     "id": "geniussnipermaster",
-    "name": "Genius Master Sniper",
+    "name": "Genius Assaulter",
     "poster": 4798,
     "story": "",
     "traits": [{
@@ -895,6 +911,102 @@
       },
       {
         "value": ["Devil Wings"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "fused",
+    "name": "Fused",
+    "poster": 8404,
+    "story": "",
+    "traits": [{
+        "value": ["Earrings"],
+        "trait_type": "Props"
+      },
+      {
+        "value": "none",
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "fusedswordmaster",
+    "name": "Fused Sword Master",
+    "poster": 5487,
+    "story": "",
+    "traits": [{
+        "value": ["Earrings"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Double Katana", "Space Sword", "Tassel Sword", "Giant Sword"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "fusedbomaster",
+    "name": "Fused Bo Master",
+    "poster": 3760,
+    "story": "",
+    "traits": [{
+        "value": ["Earrings"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Staff", "Small Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "fusedsorcerer",
+    "name": "Fused Sorcerer",
+    "poster": 8450,
+    "story": "",
+    "traits": [{
+        "value": ["Earrings"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Magic Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "fusedassaulter",
+    "name": "Fused Assaulter",
+    "poster": 2489,
+    "story": "",
+    "traits": [{
+        "value": ["Earrings"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["M-16"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "fusedspirit",
+    "name": "Fused Spirit",
+    "poster": 3742,
+    "story": "",
+    "traits": [{
+        "value": ["Earrings"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Angel Wings", "Devil Wings"],
         "trait_type": "Swords & Wings"
       }
     ]
@@ -966,7 +1078,7 @@
   {
     "category": "Faction",
     "id": "anbusnipermaster",
-    "name": "ANBU Master Sniper",
+    "name": "ANBU Assaulter",
     "poster": 1444,
     "story": "",
     "traits": [{
@@ -1222,7 +1334,7 @@
   {
     "category": "Faction",
     "id": "piratemastersniper",
-    "name": "Pirate Master Sniper",
+    "name": "Pirate Assaulter",
     "poster": 7539,
     "story": "",
     "traits": [{
@@ -1302,7 +1414,7 @@
   {
     "category": "Faction",
     "id": "stunnermastersniper",
-    "name": "Stunner Master Sniper",
+    "name": "Stunner Assaulter",
     "poster": 5106,
     "story": "",
     "traits": [{
@@ -1343,6 +1455,230 @@
       },
       {
         "value": ["Angel Wings", "Devil Wings"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "birdswordmaster",
+    "name": "Bird Sword Master",
+    "poster": 4227,
+    "story": "",
+    "traits": [{
+        "value": ["Bird Headpiece"],
+        "trait_type": "Props"
+      },
+      {
+        "value": "Double Katana",
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "birdbomaster",
+    "name": "Bird Bo Master",
+    "poster": 8229,
+    "story": "",
+    "traits": [{
+        "value": ["Bird Headpiece"],
+        "trait_type": "Props"
+      },
+      {
+        "value": "Staff",
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "hunter",
+    "name": "Bird Sorcerer",
+    "poster": 5324,
+    "story": "",
+    "traits": [{
+        "value": ["Bird Headpiece"],
+        "trait_type": "Props"
+      },
+      {
+        "value": "Magic Staff",
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "birdassaulter",
+    "name": "Bird Assaulter",
+    "poster": 7204,
+    "story": "",
+    "traits": [{
+        "value": ["Bird Headpiece"],
+        "trait_type": "Props"
+      },
+      {
+        "value": "M-16",
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "bionic",
+    "name": "Bionic",
+    "poster": 2197,
+    "story": "",
+    "traits": [{
+        "value": ["Medical Eye Mask"],
+        "trait_type": "Props"
+      },
+      {
+        "value": "none",
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "bionicswordmaster",
+    "name": "Bionic Sword Master",
+    "poster": 3492,
+    "story": "",
+    "traits": [{
+        "value": ["Medical Eye Mask"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Double Katana", "Space Sword", "Tassel Sword", "Giant Sword"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "bionicbomaster",
+    "name": "Bionic Bo Master",
+    "poster": 5904,
+    "story": "",
+    "traits": [{
+        "value": ["Medical Eye Mask"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Staff", "Small Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "bionicsorcerer",
+    "name": "Bionic Sorcerer",
+    "poster": 2344,
+    "story": "",
+    "traits": [{
+        "value": ["Medical Eye Mask"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Magic Staff"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "bionicsnipermaster",
+    "name": "Bionic Assaulter",
+    "poster": 1839,
+    "story": "",
+    "traits": [{
+        "value": ["Medical Eye Mask"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["M-16"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "bionicspirit",
+    "name": "Bionic Spirit",
+    "poster": 1610,
+    "story": "",
+    "traits": [{
+        "value": ["Medical Eye Mask"],
+        "trait_type": "Props"
+      },
+      {
+        "value": ["Angel Wings", "Devil Wings"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "scannerswordmaster",
+    "name": "Scanner Sword Master",
+    "poster": 6264,
+    "story": "",
+    "traits": [{
+        "value": ["Scanner"],
+        "trait_type": "Props"
+      },
+      {
+        "value": "Double Katana",
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "scannerbomaster",
+    "name": "Scanner Bo Master",
+    "poster": 4063,
+    "story": "",
+    "traits": [{
+        "value": ["Scanner"],
+        "trait_type": "Props"
+      },
+      {
+        "value": "Staff",
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "scannersorcerer",
+    "name": "Scanner Sorcerer",
+    "poster": 6125,
+    "story": "",
+    "traits": [{
+        "value": ["Scanner"],
+        "trait_type": "Props"
+      },
+      {
+        "value": "Magic Staff",
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Faction",
+    "id": "scannerassaulter",
+    "name": "Scanner Assaulter",
+    "poster": 5017,
+    "story": "",
+    "traits": [{
+        "value": ["Scanner"],
+        "trait_type": "Props"
+      },
+      {
+        "value": "M-16",
         "trait_type": "Swords & Wings"
       }
     ]
