@@ -449,8 +449,8 @@
   },
   {
     "category": "Unique",
-    "id": "nekoangel",
-    "name": "Neko Angel",
+    "id": "deadcats",
+    "name": "Dead Cats",
     "poster": 4205,
     "story": "",
     "traits": [{
@@ -679,6 +679,22 @@
   },
   {
     "category": "Unique",
+    "id": "guardian",
+    "name": "Guardian",
+    "poster": 2660,
+    "story": "",
+    "traits": [{
+        "value": ["Space Sword"],
+        "trait_type": "Swords & Wings"
+      },
+      {
+        "value": ["Space Suit A", "Space Suit B", "Sci-Fi Jacket"],
+        "trait_type": "Clothes"
+      }
+    ]
+  },
+  {
+    "category": "Unique",
     "id": "berserker",
     "name": "Berserker",
     "poster": 2454,
@@ -721,22 +737,6 @@
       },
       {
         "value": ["Giant Sword"],
-        "trait_type": "Swords & Wings"
-      }
-    ]
-  },
-  {
-    "category": "Unique",
-    "id": "assaulter",
-    "name": "Assaulter",
-    "poster": 8444,
-    "story": "",
-    "traits": [{
-        "value": ["Scanner"],
-        "trait_type": "Props"
-      },
-      {
-        "value": ["M-16"],
         "trait_type": "Swords & Wings"
       }
     ]
