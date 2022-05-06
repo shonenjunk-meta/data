@@ -437,7 +437,7 @@
     "name": "Waifu w/ a Knifu",
     "poster": 2964,
     "story": "Finest female duelers.",
-    "meta_type": 1,
+    "meta_type": 0,
     "traits": [
       {
         "value": ["Long", "Long Shaggy", "Mid Length", "Long Full", "Bangs", "Bun", "Streak Highlight", "Mid Middle Part", "Pony Tail", "Long Wavy", "Pigtails", "Choppy"],
@@ -455,7 +455,7 @@
     "name": "Clean Bean",
     "poster": 2366,
     "story": "Junkies with nothing to lose.",
-    "meta_type": 1,
+    "meta_type": 0,
     "traits": [{
         "value": ["Bald"],
         "trait_type": "Hair"
