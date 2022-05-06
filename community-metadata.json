@@ -432,6 +432,53 @@
     }]
   },
   {
+    "category": "Official Meta",
+    "id": "waifuknifu",
+    "name": "Waifu w/ a Knifu",
+    "poster": 2964,
+    "story": "Finest female duelers.",
+    "meta_type": 1,
+    "traits": [
+      {
+        "value": ["Long", "Long Shaggy", "Mid Length", "Long Full", "Bangs", "Bun", "Streak Highlight", "Mid Middle Part", "Pony Tail", "Long Wavy", "Pigtails", "Choppy"],
+        "trait_type": "Hair"
+      },
+      {
+        "value": ["Space Sword", "Giant Sword", "Tassel Sword", "Double Katana"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Official Meta",
+    "id": "cleanbean",
+    "name": "Clean Bean",
+    "poster": 2366,
+    "story": "Junkies with nothing to lose.",
+    "meta_type": 1,
+    "traits": [{
+        "value": ["Bald"],
+        "trait_type": "Hair"
+      },
+      {
+        "value": "none",
+        "trait_type": "Tattoos"
+      },
+      {
+        "value": "none",
+        "trait_type": "Props"
+      },
+      {
+        "value": "none",
+        "trait_type": "Hair accessories"
+      },
+      {
+        "value": "none",
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
     "category": "Unique",
     "id": "neko",
     "name": "Neko",
@@ -480,23 +527,7 @@
       }
     ]
   },
-  {
-    "category": "Unique",
-    "id": "waifuknifu",
-    "name": "Waifu w/ a Knifu",
-    "poster": 2964,
-    "story": "",
-    "traits": [
-      {
-        "value": ["Long", "Long Shaggy", "Mid Length", "Long Full", "Bangs", "Bun", "Streak Highlight", "Mid Middle Part", "Pony Tail", "Long Wavy", "Pigtails", "Choppy"],
-        "trait_type": "Hair"
-      },
-      {
-        "value": ["Space Sword", "Giant Sword", "Tassel Sword", "Double Katana"],
-        "trait_type": "Swords & Wings"
-      }
-    ]
-  },
+  
   {
     "category": "Unique",
     "id": "chichstick",
@@ -533,23 +564,6 @@
   },
   {
     "category": "Unique",
-    "id": "birdking",
-    "name": "Bird King",
-    "poster": 8229,
-    "story": "",
-    "traits": [
-      {
-        "value": ["Bird Headpiece"],
-        "trait_type": "Props"
-      },
-      {
-        "value": ["Staff"],
-        "trait_type": "Swords & Wings"
-      }
-    ]
-  },
-  {
-    "category": "Unique",
     "id": "samurai",
     "name": "Samurai",
     "poster": 5617,
@@ -561,51 +575,6 @@
       },
       {
         "value": ["Small Staff"],
-        "trait_type": "Swords & Wings"
-      }
-    ]
-  },
-  {
-    "category": "Unique",
-    "id": "psiops",
-    "name": "PSI-Ops",
-    "poster": 2660,
-    "story": "",
-    "traits": [
-      {
-        "value": ["Sci-Fi Jacket"],
-        "trait_type": "Clothes"
-      },
-      {
-        "value": ["Space Sword"],
-        "trait_type": "Swords & Wings"
-      }
-    ]
-  },
-  {
-    "category": "Unique",
-    "id": "cleanbean",
-    "name": "Clean Bean",
-    "poster": 2366,
-    "story": "",
-    "traits": [{
-        "value": ["Bald"],
-        "trait_type": "Hair"
-      },
-      {
-        "value": "none",
-        "trait_type": "Tattoos"
-      },
-      {
-        "value": "none",
-        "trait_type": "Props"
-      },
-      {
-        "value": "none",
-        "trait_type": "Hair accessories"
-      },
-      {
-        "value": "none",
         "trait_type": "Swords & Wings"
       }
     ]
