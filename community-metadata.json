@@ -451,6 +451,23 @@
   },
   {
     "category": "Official Meta",
+    "id": "baddiegaddie",
+    "name": "Baddie w/ the Gaddie",
+    "poster": 2669,
+    "story": "",
+    "traits": [
+      {
+        "value": ["Long", "Long Shaggy", "Mid Length", "Long Full", "Bangs", "Bun", "Streak Highlight", "Mid Middle Part", "Pony Tail", "Long Wavy", "Pigtails", "Choppy"],
+        "trait_type": "Hair"
+      },
+      {
+        "value": ["M-16"],
+        "trait_type": "Swords & Wings"
+      }
+    ]
+  },
+  {
+    "category": "Official Meta",
     "id": "cleanbean",
     "name": "Clean Bean",
     "poster": 2366,
@@ -510,24 +527,6 @@
       }
     ]
   },
-  {
-    "category": "Unique",
-    "id": "baddiegaddie",
-    "name": "Baddie w/ the Gaddie",
-    "poster": 2669,
-    "story": "",
-    "traits": [
-      {
-        "value": ["Long", "Long Shaggy", "Mid Length", "Long Full", "Bangs", "Bun", "Streak Highlight", "Mid Middle Part", "Pony Tail", "Long Wavy", "Pigtails", "Choppy"],
-        "trait_type": "Hair"
-      },
-      {
-        "value": ["M-16"],
-        "trait_type": "Swords & Wings"
-      }
-    ]
-  },
-  
   {
     "category": "Unique",
     "id": "chichstick",
