@@ -1724,6 +1724,22 @@
     }
   },
   {
+    "category": "Ditto",
+    "id": "twins",
+    "name": "Twins",
+    "poster": 5017,
+    "story": "",
+    "whitelist": [7469, 5017]
+  },
+  {
+    "category": "Ditto",
+    "id": "triplets",
+    "name": "Triplets",
+    "poster": 8114,
+    "story": "",
+    "whitelist": [8114, 2127, 5323]
+  },
+  {
     "category": "Junks",
     "id": "yugi",
     "name": "Yugi",
