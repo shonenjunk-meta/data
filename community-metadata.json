@@ -58,13 +58,25 @@
   },
   {
     "category": "Specs",
-    "id": "armed",
-    "name": "Armed",
+    "id": "melee",
+    "name": "Melee",
     "poster": 999,
-    "story": "This NFT has a weapon",
+    "story": "This NFT has a melee weapon",
     "meta_type": 0,
     "traits": [{
-      "value": ["Space Sword", "Tassel Sword", "Giant Sword", "Double Katana", "Small Staff", "Staff", "M-16", "Magic Staff"],
+      "value": ["Space Sword", "Tassel Sword", "Giant Sword", "Double Katana", "Small Staff", "Staff"],
+      "trait_type": "Swords & Wings"
+    }]
+  },
+  {
+    "category": "Specs",
+    "id": "ranged",
+    "name": "Ranged",
+    "poster": 1010,
+    "story": "This NFT has a ranged weapon",
+    "meta_type": 0,
+    "traits": [{
+      "value": ["M-16", "Magic Staff"],
       "trait_type": "Swords & Wings"
     }]
   },
